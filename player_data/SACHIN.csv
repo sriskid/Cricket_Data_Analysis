@@ -1,453 +1,453 @@
-Runs,Mins,BF,4s,6s,SR,Pos,Dismissal,Inns,Opposition,Ground,Start Date,Match URL,Team Total,Wickets Fallen,Percentage Scored
-0,-,2,0,0,0.00,5,caught,2,v Pakistan,Gujranwala,1989-12-18,https://stats.espncricinfo.com/ci/engine/match/64346.html,80,9,0.0
-0,2,2,0,0,0.00,5,caught,2,v New Zealand,Dunedin,1990-03-01,https://stats.espncricinfo.com/ci/engine/match/65933.html,138,10,0.0
-36,51,39,5,0,92.30,6,caught,1,v New Zealand,Wellington,1990-03-06,https://stats.espncricinfo.com/ci/engine/match/65936.html,221,10,16.289592760180994
-10,-,12,0,0,83.33,5,run out,1,v Sri Lanka,Sharjah,1990-04-25,https://stats.espncricinfo.com/ci/engine/match/65817.html,241,8,4.149377593360995
-20,-,25,1,0,80.00,7,caught,2,v Pakistan,Sharjah,1990-04-27,https://stats.espncricinfo.com/ci/engine/match/65819.html,209,10,9.569377990430622
-19,38,35,1,1,54.28,4,bowled,2,v England,Leeds,1990-07-18,https://stats.espncricinfo.com/ci/engine/match/64998.html,233,4,8.15450643776824
-31,31,26,3,0,119.23,6,bowled,2,v England,Nottingham,1990-07-20,https://stats.espncricinfo.com/ci/engine/match/64999.html,282,5,10.99290780141844
-36,-,22,3,2,163.63,5,bowled,1,v Sri Lanka,Nagpur,1990-12-01,https://stats.espncricinfo.com/ci/engine/match/64361.html,245,5,14.69387755102041
-53,-,41,7,1,129.26,5,bowled,2,v Sri Lanka,Pune,1990-12-05,https://stats.espncricinfo.com/ci/engine/match/64362.html,230,4,23.043478260869566
-30,-,29,1,2,103.44,5,caught,1,v Sri Lanka,Margao,1990-12-08,https://stats.espncricinfo.com/ci/engine/match/64363.html,136,10,22.058823529411764
-4,-,11,0,0,36.36,5,lbw,2,v Sri Lanka,Cuttack,1990-12-28,https://stats.espncricinfo.com/ci/engine/match/65682.html,178,10,2.247191011235955
-53,-,70,2,0,75.71,4,lbw,2,v Sri Lanka,Eden Gardens,1991-01-04,https://stats.espncricinfo.com/ci/engine/match/65684.html,205,3,25.853658536585368
-52,-,40,5,0,130.00,5,not out,1,v Pakistan,Sharjah,1991-10-18,https://stats.espncricinfo.com/ci/engine/match/65941.html,238,4,21.84873949579832
-22,-,27,3,0,81.48,5,run out,1,v West Indies,Sharjah,1991-10-19,https://stats.espncricinfo.com/ci/engine/match/65942.html,240,6,9.166666666666666
-11,-,27,1,0,40.74,5,not out,2,v West Indies,Sharjah,1991-10-22,https://stats.espncricinfo.com/ci/engine/match/65944.html,147,3,7.482993197278912
-49,-,38,3,2,128.94,5,caught,2,v Pakistan,Sharjah,1991-10-23,https://stats.espncricinfo.com/ci/engine/match/65945.html,253,6,19.367588932806324
-0,-,1,0,0,0.00,5,lbw,2,v Pakistan,Sharjah,1991-10-25,https://stats.espncricinfo.com/ci/engine/match/65946.html,190,10,0.0
-62,-,73,8,1,84.93,4,caught,2,v South Africa,Eden Gardens,1991-11-10,https://stats.espncricinfo.com/ci/engine/match/64375.html,178,7,34.831460674157306
-4,-,8,0,0,50.00,4,caught,1,v South Africa,Gwalior,1991-11-12,https://stats.espncricinfo.com/ci/engine/match/64376.html,223,6,1.7937219730941705
-1,-,3,0,0,33.33,4,caught,1,v South Africa,New Delhi,1991-11-14,https://stats.espncricinfo.com/ci/engine/match/64377.html,287,4,0.34843205574912894
-1,14,9,0,0,11.11,4,caught,1,v West Indies,Perth,1991-12-06,https://stats.espncricinfo.com/ci/engine/match/65479.html,126,10,0.7936507936507936
-36,79,65,3,0,55.38,4,caught,1,v Australia,Perth,1991-12-08,https://stats.espncricinfo.com/ci/engine/match/65480.html,208,7,17.307692307692307
-57,111,107,3,0,53.27,4,caught,1,v Australia,Hobart,1991-12-10,https://stats.espncricinfo.com/ci/engine/match/65481.html,175,8,32.57142857142858
-48,62,57,2,0,84.21,4,caught,1,v West Indies,Adelaide,1991-12-14,https://stats.espncricinfo.com/ci/engine/match/65483.html,262,4,18.3206106870229
-21,38,35,3,0,60.00,4,caught,1,v Australia,Adelaide,1991-12-15,https://stats.espncricinfo.com/ci/engine/match/65484.html,157,10,13.375796178343949
-77,157,127,5,0,60.62,4,caught,1,v West Indies,Brisbane,1992-01-11,https://stats.espncricinfo.com/ci/engine/match/65487.html,191,10,40.31413612565445
-31,64,44,1,0,70.45,5,run out,1,v Australia,Sydney,1992-01-14,https://stats.espncricinfo.com/ci/engine/match/65489.html,175,10,17.71428571428571
-57,118,88,2,0,64.77,4,not out,2,v West Indies,Melbourne,1992-01-16,https://stats.espncricinfo.com/ci/engine/match/65490.html,176,5,32.38636363636363
-4,12,10,0,0,40.00,4,caught,2,v Australia,Melbourne,1992-01-18,https://stats.espncricinfo.com/ci/engine/match/65491.html,145,10,2.7586206896551726
-69,116,100,3,0,69.00,4,caught,2,v Australia,Sydney,1992-01-20,https://stats.espncricinfo.com/ci/engine/match/65492.html,202,7,34.15841584158416
-35,51,44,5,0,79.54,4,caught,2,v England,Perth,1992-02-22,https://stats.espncricinfo.com/ci/engine/match/65119.html,227,10,15.418502202643172
-11,19,19,1,0,57.89,4,caught,2,v Australia,Brisbane,1992-03-01,https://stats.espncricinfo.com/ci/engine/match/65129.html,234,10,4.700854700854701
-54,91,62,3,0,87.09,5,not out,1,v Pakistan,Sydney,1992-03-04,https://stats.espncricinfo.com/ci/engine/match/65133.html,216,7,25.0
-81,88,77,8,1,105.19,4,caught,1,v Zimbabwe,Hamilton,1992-03-07,https://stats.espncricinfo.com/ci/engine/match/65136.html,203,7,39.90147783251231
-4,11,11,0,0,36.36,4,caught,1,v West Indies,Wellington,1992-03-10,https://stats.espncricinfo.com/ci/engine/match/65141.html,197,10,2.030456852791878
-84,122,107,6,0,78.50,4,caught,1,v New Zealand,Dunedin,1992-03-12,https://stats.espncricinfo.com/ci/engine/match/65144.html,230,6,36.52173913043478
-14,14,14,1,0,100.00,4,caught,1,v South Africa,Adelaide,1992-03-15,https://stats.espncricinfo.com/ci/engine/match/65149.html,180,6,7.777777777777778
-39,92,56,7,0,69.64,4,caught,1,v Zimbabwe,Harare,1992-10-25,https://stats.espncricinfo.com/ci/engine/match/64395.html,239,10,16.317991631799163
-15,-,27,1,0,55.55,4,bowled,1,v South Africa,Cape Town,1992-12-07,https://stats.espncricinfo.com/ci/engine/match/64399.html,184,10,8.152173913043478
-10,-,36,0,0,27.77,4,caught,1,v South Africa,Gqeberha,1992-12-09,https://stats.espncricinfo.com/ci/engine/match/64400.html,147,10,6.802721088435375
-22,-,24,2,0,91.66,5,caught,2,v South Africa,Centurion,1992-12-11,https://stats.espncricinfo.com/ci/engine/match/64401.html,215,6,10.232558139534884
-21,-,44,1,0,47.72,5,caught,1,v South Africa,Johannesburg,1992-12-13,https://stats.espncricinfo.com/ci/engine/match/64404.html,161,9,13.043478260869565
-32,-,52,1,0,61.53,5,bowled,1,v South Africa,Bloemfontein,1992-12-15,https://stats.espncricinfo.com/ci/engine/match/64405.html,207,4,15.458937198067632
-23,-,39,0,0,58.97,5,caught,2,v South Africa,Durban,1992-12-17,https://stats.espncricinfo.com/ci/engine/match/64406.html,177,10,12.994350282485875
-21,-,38,3,0,55.26,3,caught,2,v South Africa,East London,1992-12-19,https://stats.espncricinfo.com/ci/engine/match/64407.html,204,5,10.294117647058822
-82,116,81,6,1,101.23,5,not out,1,v England,Jaipur,1993-01-18,https://stats.espncricinfo.com/ci/engine/match/64411.html,223,3,36.771300448430495
-1,9,5,0,0,20.00,5,lbw,2,v England,Chandigarh,1993-01-21,https://stats.espncricinfo.com/ci/engine/match/64412.html,201,5,0.4975124378109453
-3,7,6,0,0,50.00,4,caught,2,v England,Bengaluru,1993-02-26,https://stats.espncricinfo.com/ci/engine/match/64413.html,170,10,1.7647058823529411
-24,42,32,1,0,75.00,4,bowled,1,v England,Jamshedpur,1993-03-01,https://stats.espncricinfo.com/ci/engine/match/64414.html,137,7,17.51824817518248
-5,7,6,1,0,83.33,5,bowled,2,v England,Gwalior,1993-03-04,https://stats.espncricinfo.com/ci/engine/match/64416.html,257,7,1.9455252918287937
-34,42,30,2,1,113.33,5,caught,2,v England,Gwalior,1993-03-05,https://stats.espncricinfo.com/ci/engine/match/64417.html,267,6,12.734082397003746
-3,16,9,0,0,33.33,5,caught,1,v Zimbabwe,Faridabad,1993-03-19,https://stats.espncricinfo.com/ci/engine/match/64420.html,249,7,1.2048192771084338
-8,8,6,0,0,133.33,5,not out,2,v Zimbabwe,Guwahati,1993-03-22,https://stats.espncricinfo.com/ci/engine/match/64423.html,150,3,5.333333333333334
-21,-,39,1,0,53.84,5,caught,1,v Sri Lanka,Colombo (RPS),1993-07-25,https://stats.espncricinfo.com/ci/engine/match/64433.html,212,8,9.90566037735849
-15,-,30,0,0,50.00,5,run out,2,v Sri Lanka,Colombo (RPS),1993-08-12,https://stats.espncricinfo.com/ci/engine/match/64434.html,196,10,7.653061224489796
-25,-,39,1,0,64.10,5,caught,1,v Sri Lanka,Moratuwa,1993-08-14,https://stats.espncricinfo.com/ci/engine/match/64435.html,227,9,11.013215859030836
-26,-,30,4,0,86.66,5,not out,2,v Sri Lanka,Kanpur,1993-11-07,https://stats.espncricinfo.com/ci/engine/match/65961.html,205,3,12.682926829268293
-2,-,8,0,0,25.00,5,lbw,2,v West Indies,Ahmedabad,1993-11-16,https://stats.espncricinfo.com/ci/engine/match/65966.html,100,10,2.0
-24,22,16,1,1,150.00,6,caught,1,v Zimbabwe,Indore,1993-11-18,https://stats.espncricinfo.com/ci/engine/match/65967.html,248,5,9.67741935483871
-3,-,25,0,0,12.00,4,caught,1,v South Africa,Mohali,1993-11-22,https://stats.espncricinfo.com/ci/engine/match/65970.html,221,10,1.3574660633484164
-15,-,31,3,0,48.38,5,caught,1,v South Africa,Eden Gardens,1993-11-24,https://stats.espncricinfo.com/ci/engine/match/65971.html,195,10,7.6923076923076925
-28,-,43,2,0,65.11,5,not out,1,v West Indies,Eden Gardens,1993-11-27,https://stats.espncricinfo.com/ci/engine/match/65973.html,225,7,12.444444444444445
-1,10,5,0,0,20.00,5,caught,1,v Sri Lanka,Rajkot,1994-02-15,https://stats.espncricinfo.com/ci/engine/match/64445.html,246,5,0.40650406504065045
-11,25,18,0,0,61.11,5,not out,2,v Sri Lanka,Hyderabad (Deccan),1994-02-18,https://stats.espncricinfo.com/ci/engine/match/64447.html,227,3,4.845814977973569
-52,83,63,3,0,82.53,5,run out,1,v Sri Lanka,Jalandhar,1994-02-20,https://stats.espncricinfo.com/ci/engine/match/64449.html,213,9,24.413145539906104
-15,22,19,1,0,78.94,5,caught,2,v New Zealand,Napier,1994-03-25,https://stats.espncricinfo.com/ci/engine/match/64462.html,212,9,7.0754716981132075
-82,69,49,15,2,167.34,2,caught,2,v New Zealand,Auckland,1994-03-27,https://stats.espncricinfo.com/ci/engine/match/64463.html,143,3,57.34265734265735
-63,91,75,9,0,84.00,2,lbw,1,v New Zealand,Wellington,1994-03-30,https://stats.espncricinfo.com/ci/engine/match/64464.html,255,5,24.705882352941178
-40,34,26,8,0,153.84,2,bowled,1,v New Zealand,Christchurch,1994-04-02,https://stats.espncricinfo.com/ci/engine/match/64465.html,222,6,18.01801801801802
-63,125,77,7,1,81.81,2,caught,1,v U.A.E.,Sharjah,1994-04-13,https://stats.espncricinfo.com/ci/engine/match/65826.html,273,5,23.076923076923077
-73,96,64,10,3,114.06,2,caught,1,v Pakistan,Sharjah,1994-04-15,https://stats.espncricinfo.com/ci/engine/match/65828.html,219,10,33.33333333333333
-6,12,7,1,0,85.71,2,caught,2,v Australia,Sharjah,1994-04-19,https://stats.espncricinfo.com/ci/engine/match/65832.html,245,3,2.4489795918367347
-24,59,26,4,0,92.30,2,caught,2,v Pakistan,Sharjah,1994-04-22,https://stats.espncricinfo.com/ci/engine/match/65834.html,211,10,11.374407582938389
-11,-,16,2,0,68.75,2,not out,1,v Sri Lanka,Colombo (RPS),1994-09-04,https://stats.espncricinfo.com/ci/engine/match/65974.html,16,10,68.75
-6,13,5,0,0,120.00,2,caught,1,v Sri Lanka,Colombo (RPS),1994-09-05,https://stats.espncricinfo.com/ci/engine/match/65975.html,125,5,4.8
-110,186,130,8,2,84.61,2,bowled,1,v Australia,Colombo (RPS),1994-09-09,https://stats.espncricinfo.com/ci/engine/match/65977.html,246,8,44.71544715447154
-0,6,2,0,0,0.00,2,caught,2,v Sri Lanka,Colombo (SSC),1994-09-17,https://stats.espncricinfo.com/ci/engine/match/65980.html,99,4,0.0
-0,3,4,0,0,0.00,2,caught,2,v West Indies,Faridabad,1994-10-17,https://stats.espncricinfo.com/ci/engine/match/64475.html,177,10,0.0
-0,7,4,0,0,0.00,2,caught,2,v West Indies,Wankhede,1994-10-20,https://stats.espncricinfo.com/ci/engine/match/64476.html,135,4,0.0
-8,28,24,0,0,33.33,3,caught,2,v West Indies,Chennai,1994-10-23,https://stats.espncricinfo.com/ci/engine/match/65997.html,225,6,3.5555555555555554
-115,184,136,9,3,84.55,2,run out,2,v New Zealand,Vadodara,1994-10-28,https://stats.espncricinfo.com/ci/engine/match/65999.html,271,3,42.435424354243544
-34,53,47,7,0,72.34,2,bowled,2,v West Indies,Kanpur,1994-10-30,https://stats.espncricinfo.com/ci/engine/match/66000.html,211,5,16.113744075829384
-62,80,54,13,0,114.81,2,bowled,1,v New Zealand,Delhi,1994-11-03,https://stats.espncricinfo.com/ci/engine/match/66002.html,289,3,21.453287197231834
-66,101,68,8,0,97.05,2,caught,1,v West Indies,Eden Gardens,1994-11-05,https://stats.espncricinfo.com/ci/engine/match/66003.html,274,6,24.087591240875913
-54,130,64,5,0,84.37,2,caught,1,v West Indies,Visakhapatnam,1994-11-07,https://stats.espncricinfo.com/ci/engine/match/64480.html,260,4,20.76923076923077
-88,147,112,10,0,78.57,2,bowled,2,v West Indies,Cuttack,1994-11-09,https://stats.espncricinfo.com/ci/engine/match/64481.html,256,2,34.375
-105,180,134,10,0,78.35,2,caught,1,v West Indies,Jaipur,1994-11-11,https://stats.espncricinfo.com/ci/engine/match/64482.html,259,5,40.54054054054054
-13,30,15,3,0,86.66,2,caught,1,v New Zealand,Napier,1995-02-16,https://stats.espncricinfo.com/ci/engine/match/66019.html,160,10,8.125
-37,75,51,3,1,72.54,2,caught,2,v South Africa,Hamilton,1995-02-18,https://stats.espncricinfo.com/ci/engine/match/66020.html,209,9,17.703349282296653
-47,65,40,7,0,117.50,2,caught,2,v Australia,Dunedin,1995-02-22,https://stats.espncricinfo.com/ci/engine/match/66022.html,252,5,18.650793650793652
-48,37,30,9,1,160.00,2,bowled,2,v Bangladesh,Sharjah,1995-04-05,https://stats.espncricinfo.com/ci/engine/match/65685.html,164,1,29.268292682926827
-4,13,9,1,0,44.44,2,caught,2,v Pakistan,Sharjah,1995-04-07,https://stats.espncricinfo.com/ci/engine/match/65687.html,169,10,2.366863905325444
-112,137,107,15,1,104.67,2,not out,2,v Sri Lanka,Sharjah,1995-04-09,https://stats.espncricinfo.com/ci/engine/match/65689.html,206,2,54.36893203883495
-41,51,41,5,0,100.00,2,caught,2,v Sri Lanka,Sharjah,1995-04-14,https://stats.espncricinfo.com/ci/engine/match/65691.html,233,2,17.59656652360515
-30,30,20,5,0,150.00,2,caught,1,v New Zealand,Jamshedpur,1995-11-15,https://stats.espncricinfo.com/ci/engine/match/64502.html,236,10,12.711864406779661
-39,79,51,4,0,76.47,2,caught,2,v New Zealand,Amritsar,1995-11-18,https://stats.espncricinfo.com/ci/engine/match/64503.html,146,4,26.71232876712329
-7,27,11,1,0,63.63,2,caught,2,v New Zealand,Pune,1995-11-24,https://stats.espncricinfo.com/ci/engine/match/64504.html,236,5,2.9661016949152543
-65,96,59,9,1,110.16,2,run out,2,v New Zealand,Nagpur,1995-11-26,https://stats.espncricinfo.com/ci/engine/match/64505.html,249,10,26.104417670682732
-1,14,4,0,0,25.00,2,bowled,2,v New Zealand,Brabourne,1995-11-29,https://stats.espncricinfo.com/ci/engine/match/64506.html,128,4,0.78125
-127,175,138,15,1,92.02,2,not out,2,v Kenya,Cuttack,1996-02-18,https://stats.espncricinfo.com/ci/engine/match/65161.html,203,3,62.5615763546798
-70,137,91,8,0,76.92,2,run out,2,v West Indies,Gwalior,1996-02-21,https://stats.espncricinfo.com/ci/engine/match/65165.html,174,5,40.229885057471265
-90,124,84,14,1,107.14,2,stumped,2,v Australia,Wankhede,1996-02-27,https://stats.espncricinfo.com/ci/engine/match/65174.html,242,10,37.1900826446281
-137,198,137,8,5,100.00,2,run out,1,v Sri Lanka,Delhi,1996-03-02,https://stats.espncricinfo.com/ci/engine/match/65179.html,271,3,50.55350553505535
-3,10,12,0,0,25.00,1,bowled,1,v Zimbabwe,Kanpur,1996-03-06,https://stats.espncricinfo.com/ci/engine/match/65184.html,247,5,1.214574898785425
-31,103,59,3,0,52.54,2,bowled,1,v Pakistan,Bengaluru,1996-03-09,https://stats.espncricinfo.com/ci/engine/match/65187.html,287,8,10.801393728222997
-65,96,88,9,0,73.86,1,stumped,2,v Sri Lanka,Eden Gardens,1996-03-13,https://stats.espncricinfo.com/ci/engine/match/65190.html,120,8,54.166666666666664
-28,-,31,3,1,90.32,1,caught,1,v Sri Lanka,Singapore,1996-04-03,https://stats.espncricinfo.com/ci/engine/match/66027.html,199,10,14.07035175879397
-100,-,111,9,1,90.09,2,stumped,1,v Pakistan,Singapore,1996-04-05,https://stats.espncricinfo.com/ci/engine/match/66028.html,226,8,44.24778761061947
-1,-,5,0,0,20.00,2,caught,2,v Pakistan,Sharjah,1996-04-12,https://stats.espncricinfo.com/ci/engine/match/65754.html,233,10,0.4291845493562232
-2,23,15,0,0,13.33,2,caught,2,v South Africa,Sharjah,1996-04-14,https://stats.espncricinfo.com/ci/engine/match/65756.html,208,8,0.9615384615384616
-118,-,140,8,2,84.28,2,caught,1,v Pakistan,Sharjah,1996-04-15,https://stats.espncricinfo.com/ci/engine/match/65757.html,305,5,38.68852459016394
-17,32,26,2,0,65.38,2,caught,1,v South Africa,Sharjah,1996-04-17,https://stats.espncricinfo.com/ci/engine/match/65759.html,215,8,7.906976744186046
-57,104,71,6,0,80.28,2,run out,2,v South Africa,Sharjah,1996-04-19,https://stats.espncricinfo.com/ci/engine/match/65760.html,249,9,22.89156626506024
-30,30,19,5,1,157.89,2,lbw,2,v England,The Oval,1996-05-23,https://stats.espncricinfo.com/ci/engine/match/65017.html,96,5,31.25
-6,26,19,0,0,31.57,2,run out,1,v England,Leeds,1996-05-25,https://stats.espncricinfo.com/ci/engine/match/65018.html,158,10,3.79746835443038
-1,18,11,0,0,9.09,2,caught,1,v England,Manchester,1996-05-26,https://stats.espncricinfo.com/ci/engine/match/65019.html,236,4,0.423728813559322
-110,-,138,5,1,79.71,2,run out,1,v Sri Lanka,Colombo (RPS),1996-08-28,https://stats.espncricinfo.com/ci/engine/match/65982.html,226,5,48.67256637168141
-40,60,46,8,0,86.95,2,caught,2,v Zimbabwe,Colombo (SSC),1996-09-01,https://stats.espncricinfo.com/ci/engine/match/65984.html,229,3,17.46724890829694
-7,24,11,1,0,63.63,2,caught,1,v Australia,Colombo (SSC),1996-09-06,https://stats.espncricinfo.com/ci/engine/match/65986.html,201,10,3.482587064676617
-89,-,89,9,3,100.00,2,not out,2,v Pakistan,Toronto,1996-09-16,https://stats.espncricinfo.com/ci/engine/match/66030.html,173,2,51.445086705202314
-20,-,23,3,0,86.95,2,caught,1,v Pakistan,Toronto,1996-09-17,https://stats.espncricinfo.com/ci/engine/match/66031.html,264,6,7.575757575757576
-2,-,13,0,0,15.38,2,caught,1,v Pakistan,Toronto,1996-09-18,https://stats.espncricinfo.com/ci/engine/match/66032.html,191,10,1.0471204188481675
-3,-,9,0,0,33.33,2,caught,2,v Pakistan,Toronto,1996-09-21,https://stats.espncricinfo.com/ci/engine/match/66033.html,161,10,1.8633540372670807
-23,-,44,0,1,52.27,2,run out,2,v Pakistan,Toronto,1996-09-23,https://stats.espncricinfo.com/ci/engine/match/66034.html,161,10,14.285714285714285
-11,20,8,2,0,137.50,2,caught,2,v South Africa,Hyderabad (Deccan),1996-10-17,https://stats.espncricinfo.com/ci/engine/match/66059.html,214,10,5.14018691588785
-88,189,111,9,0,79.27,2,lbw,2,v Australia,Bengaluru,1996-10-21,https://stats.espncricinfo.com/ci/engine/match/66061.html,216,8,40.74074074074074
-64,133,93,3,0,68.81,2,caught,2,v South Africa,Jaipur,1996-10-23,https://stats.espncricinfo.com/ci/engine/match/66062.html,222,7,28.82882882882883
-28,55,38,5,0,73.68,1,lbw,1,v South Africa,Rajkot,1996-10-29,https://stats.espncricinfo.com/ci/engine/match/66064.html,185,10,15.135135135135137
-62,-,61,8,0,101.63,1,caught,1,v Australia,Mohali,1996-11-03,https://stats.espncricinfo.com/ci/engine/match/66066.html,289,6,21.453287197231834
-67,128,88,6,0,76.13,2,caught,1,v South Africa,Wankhede,1996-11-06,https://stats.espncricinfo.com/ci/engine/match/66067.html,220,7,30.454545454545457
-114,157,126,14,0,90.47,1,stumped,1,v South Africa,Wankhede,1996-12-14,https://stats.espncricinfo.com/ci/engine/match/64533.html,267,6,42.69662921348314
-0,12,4,0,0,0.00,2,bowled,2,v South Africa,Bloemfontein,1997-01-23,https://stats.espncricinfo.com/ci/engine/match/66068.html,231,10,0.0
-6,8,8,1,0,75.00,1,caught,2,v Zimbabwe,Paarl,1997-01-27,https://stats.espncricinfo.com/ci/engine/match/66070.html,236,10,2.5423728813559325
-1,14,14,0,0,7.14,4,bowled,1,v South Africa,Gqeberha,1997-02-02,https://stats.espncricinfo.com/ci/engine/match/66073.html,179,9,0.5586592178770949
-14,34,24,2,0,58.33,3,caught,1,v South Africa,East London,1997-02-04,https://stats.espncricinfo.com/ci/engine/match/66074.html,232,5,6.0344827586206895
-41,81,56,1,1,73.21,4,caught,1,v Zimbabwe,Centurion,1997-02-07,https://stats.espncricinfo.com/ci/engine/match/66075.html,216,10,18.98148148148148
-104,121,97,8,1,107.21,2,caught,2,v Zimbabwe,Benoni,1997-02-09,https://stats.espncricinfo.com/ci/engine/match/66076.html,241,4,43.15352697095436
-32,55,27,6,0,118.51,2,caught,1,v South Africa,Durban,1997-02-12,https://stats.espncricinfo.com/ci/engine/match/66077.html,191,9,16.75392670157068
-45,48,33,7,1,136.36,2,caught,2,v South Africa,Durban,1997-02-13,https://stats.espncricinfo.com/ci/engine/match/66078.html,234,10,19.230769230769234
-13,18,15,0,1,86.66,2,caught,1,v Zimbabwe,Bulawayo,1997-02-15,https://stats.espncricinfo.com/ci/engine/match/64537.html,168,10,7.738095238095238
-44,57,43,10,0,102.32,1,caught,1,v West Indies,Port of Spain,1997-04-26,https://stats.espncricinfo.com/ci/engine/match/64552.html,179,10,24.581005586592177
-65,111,70,7,0,92.85,1,not out,2,v West Indies,Port of Spain,1997-04-27,https://stats.espncricinfo.com/ci/engine/match/64553.html,116,10,56.03448275862068
-9,22,15,1,0,60.00,1,bowled,2,v West Indies,Kingstown,1997-04-30,https://stats.espncricinfo.com/ci/engine/match/64554.html,231,10,3.896103896103896
-1,17,11,0,0,9.09,1,caught,1,v West Indies,Bridgetown,1997-05-03,https://stats.espncricinfo.com/ci/engine/match/64555.html,199,7,0.5025125628140703
-117,188,137,13,2,85.40,2,bowled,2,v New Zealand,Bengaluru,1997-05-14,https://stats.espncricinfo.com/ci/engine/match/66110.html,221,2,52.94117647058824
-2,19,4,0,0,50.00,2,caught,1,v Sri Lanka,Wankhede,1997-05-17,https://stats.espncricinfo.com/ci/engine/match/66111.html,225,7,0.8888888888888888
-4,10,7,1,0,57.14,1,caught,2,v Pakistan,Chennai,1997-05-21,https://stats.espncricinfo.com/ci/engine/match/66113.html,292,10,1.36986301369863
-21,49,28,3,0,75.00,1,bowled,1,v Sri Lanka,Colombo (RPS),1997-07-18,https://stats.espncricinfo.com/ci/engine/match/65694.html,227,6,9.251101321585903
-28,36,21,5,0,133.33,2,bowled,2,v Bangladesh,Colombo (SSC),1997-07-24,https://stats.espncricinfo.com/ci/engine/match/65697.html,132,1,21.21212121212121
-53,109,67,2,0,79.10,4,caught,1,v Sri Lanka,Colombo (RPS),1997-07-26,https://stats.espncricinfo.com/ci/engine/match/65698.html,239,7,22.17573221757322
-27,55,28,3,0,96.42,1,caught,2,v Sri Lanka,Colombo (RPS),1997-08-17,https://stats.espncricinfo.com/ci/engine/match/64557.html,300,7,9.0
-6,4,6,1,0,100.00,1,lbw,1,v Sri Lanka,Colombo (RPS),1997-08-20,https://stats.espncricinfo.com/ci/engine/match/64558.html,238,10,2.5210084033613445
-27,47,31,4,0,87.09,2,caught,1,v Sri Lanka,Colombo (SSC),1997-08-23,https://stats.espncricinfo.com/ci/engine/match/64559.html,291,9,9.278350515463918
-39,41,32,3,2,121.87,1,caught,2,v Sri Lanka,Colombo (SSC),1997-08-24,https://stats.espncricinfo.com/ci/engine/match/64560.html,255,8,15.294117647058824
-17,82,54,2,0,31.48,1,caught,1,v Pakistan,Toronto,1997-09-13,https://stats.espncricinfo.com/ci/engine/match/66035.html,208,10,8.173076923076923
-25,66,45,3,0,55.55,4,not out,2,v Pakistan,Toronto,1997-09-14,https://stats.espncricinfo.com/ci/engine/match/66036.html,117,3,21.367521367521366
-0,26,10,0,0,0.00,4,caught,1,v Pakistan,Toronto,1997-09-18,https://stats.espncricinfo.com/ci/engine/match/66038.html,182,6,0.0
-6,10,7,1,0,85.71,1,caught,2,v Pakistan,Toronto,1997-09-20,https://stats.espncricinfo.com/ci/engine/match/66039.html,162,3,3.7037037037037033
-51,106,64,4,1,79.68,1,lbw,1,v Pakistan,Toronto,1997-09-21,https://stats.espncricinfo.com/ci/engine/match/66040.html,250,5,20.4
-2,17,11,0,0,18.18,1,bowled,1,v Pakistan,Hyderabad (Sind),1997-09-28,https://stats.espncricinfo.com/ci/engine/match/64561.html,170,10,1.1764705882352942
-21,24,18,2,1,116.66,1,caught,2,v Pakistan,Karachi,1997-09-30,https://stats.espncricinfo.com/ci/engine/match/64562.html,266,6,7.894736842105263
-7,19,11,1,0,63.63,1,caught,1,v Pakistan,Lahore,1997-10-02,https://stats.espncricinfo.com/ci/engine/match/64564.html,216,10,3.2407407407407405
-91,146,87,4,2,104.59,4,stumped,2,v England,Sharjah,1997-12-11,https://stats.espncricinfo.com/ci/engine/match/65873.html,243,10,37.4485596707819
-3,4,4,0,0,75.00,5,caught,1,v Pakistan,Sharjah,1997-12-14,https://stats.espncricinfo.com/ci/engine/match/65876.html,239,7,1.2552301255230125
-1,3,2,0,0,50.00,4,run out,2,v West Indies,Sharjah,1997-12-16,https://stats.espncricinfo.com/ci/engine/match/65878.html,188,10,0.5319148936170213
-82,110,86,6,0,95.34,4,not out,2,v Sri Lanka,Guwahati,1997-12-22,https://stats.espncricinfo.com/ci/engine/match/64567.html,173,3,47.398843930635834
-6,23,13,0,0,46.15,3,caught,1,v Sri Lanka,Margao,1997-12-28,https://stats.espncricinfo.com/ci/engine/match/64569.html,228,6,2.631578947368421
-54,104,76,4,0,71.05,4,caught,2,v Bangladesh,Dhaka,1998-01-10,https://stats.espncricinfo.com/ci/engine/match/66131.html,191,6,28.272251308900525
-67,-,44,11,0,152.27,2,stumped,1,v Pakistan,Dhaka,1998-01-11,https://stats.espncricinfo.com/ci/engine/match/66132.html,245,7,27.346938775510203
-95,104,78,6,5,121.79,2,bowled,2,v Pakistan,Dhaka,1998-01-14,https://stats.espncricinfo.com/ci/engine/match/66134.html,213,2,44.60093896713615
-1,14,6,0,0,16.66,2,bowled,1,v Pakistan,Dhaka,1998-01-16,https://stats.espncricinfo.com/ci/engine/match/66135.html,189,10,0.5291005291005291
-41,-,26,7,1,157.69,2,caught,2,v Pakistan,Dhaka,1998-01-18,https://stats.espncricinfo.com/ci/engine/match/66136.html,316,7,12.974683544303797
-8,21,11,1,0,72.72,2,caught,1,v Australia,Kochi,1998-04-01,https://stats.espncricinfo.com/ci/engine/match/66137.html,309,5,2.5889967637540456
-5,44,17,0,0,29.41,2,run out,1,v Zimbabwe,Vadodara,1998-04-05,https://stats.espncricinfo.com/ci/engine/match/66139.html,274,5,1.824817518248175
-100,132,89,5,7,112.35,2,caught,2,v Australia,Kanpur,1998-04-07,https://stats.espncricinfo.com/ci/engine/match/66140.html,223,4,44.843049327354265
-1,18,2,0,0,50.00,2,caught,1,v Zimbabwe,Cuttack,1998-04-09,https://stats.espncricinfo.com/ci/engine/match/66141.html,301,3,0.33222591362126247
-15,45,24,2,0,62.50,2,caught,1,v Australia,Delhi,1998-04-14,https://stats.espncricinfo.com/ci/engine/match/66143.html,227,10,6.607929515418502
-40,62,41,5,1,97.56,1,caught,1,v New Zealand,Sharjah,1998-04-17,https://stats.espncricinfo.com/ci/engine/match/65768.html,220,9,18.181818181818183
-80,136,72,9,0,111.11,2,caught,2,v Australia,Sharjah,1998-04-19,https://stats.espncricinfo.com/ci/engine/match/65770.html,206,10,38.83495145631068
-38,93,58,2,0,65.51,1,run out,1,v New Zealand,Sharjah,1998-04-20,https://stats.espncricinfo.com/ci/engine/match/65771.html,181,10,20.994475138121548
-143,187,131,9,5,109.16,2,caught,2,v Australia,Sharjah,1998-04-22,https://stats.espncricinfo.com/ci/engine/match/65773.html,250,5,57.199999999999996
-134,195,131,12,3,102.29,2,lbw,2,v Australia,Sharjah,1998-04-24,https://stats.espncricinfo.com/ci/engine/match/65774.html,275,4,48.72727272727273
-33,48,29,6,0,113.79,2,caught,2,v Bangladesh,Wankhede,1998-05-25,https://stats.espncricinfo.com/ci/engine/match/66148.html,116,5,28.448275862068968
-18,33,25,2,0,72.00,2,caught,2,v Kenya,Gwalior,1998-05-28,https://stats.espncricinfo.com/ci/engine/match/66149.html,196,10,9.183673469387756
-100,156,103,13,0,97.08,2,not out,2,v Kenya,Eden Gardens,1998-05-31,https://stats.espncricinfo.com/ci/engine/match/66150.html,197,1,50.76142131979695
-65,79,50,9,0,130.00,2,caught,2,v Sri Lanka,Colombo (RPS),1998-06-19,https://stats.espncricinfo.com/ci/engine/match/66151.html,246,2,26.422764227642276
-53,43,36,3,3,147.22,2,caught,2,v New Zealand,Colombo (RPS),1998-06-23,https://stats.espncricinfo.com/ci/engine/match/66153.html,131,2,40.458015267175576
-17,28,16,4,0,106.25,2,caught,2,v Sri Lanka,Colombo (SSC),1998-07-01,https://stats.espncricinfo.com/ci/engine/match/66154.html,163,10,10.429447852760736
-128,182,131,8,2,97.70,2,stumped,1,v Sri Lanka,Colombo (RPS),1998-07-07,https://stats.espncricinfo.com/ci/engine/match/66157.html,307,6,41.69381107491857
-77,157,109,9,0,70.64,2,caught,1,v Pakistan,Toronto,1998-09-20,https://stats.espncricinfo.com/ci/engine/match/66045.html,256,9,30.078125
-127,155,130,13,1,97.69,2,not out,2,v Zimbabwe,Bulawayo,1998-09-26,https://stats.espncricinfo.com/ci/engine/match/64589.html,216,2,58.79629629629629
-29,33,21,4,1,138.09,1,caught,2,v Zimbabwe,Bulawayo,1998-09-27,https://stats.espncricinfo.com/ci/engine/match/64590.html,236,2,12.288135593220339
-2,7,6,0,0,33.33,2,caught,2,v Zimbabwe,Harare,1998-09-30,https://stats.espncricinfo.com/ci/engine/match/64591.html,222,10,0.9009009009009009
-141,191,128,13,3,110.15,2,run out,1,v Australia,Dhaka,1998-10-28,https://stats.espncricinfo.com/ci/engine/match/66165.html,307,8,45.928338762214985
-8,20,14,1,0,57.14,2,caught,1,v West Indies,Dhaka,1998-10-31,https://stats.espncricinfo.com/ci/engine/match/66168.html,242,6,3.3057851239669422
-3,15,6,0,0,50.00,2,caught,2,v Sri Lanka,Sharjah,1998-11-06,https://stats.espncricinfo.com/ci/engine/match/65880.html,248,7,1.2096774193548387
-118,173,112,14,2,105.35,2,not out,2,v Zimbabwe,Sharjah,1998-11-08,https://stats.espncricinfo.com/ci/engine/match/65882.html,197,3,59.89847715736041
-18,57,28,2,0,64.28,1,caught,1,v Sri Lanka,Sharjah,1998-11-09,https://stats.espncricinfo.com/ci/engine/match/65883.html,179,10,10.05586592178771
-11,33,12,2,0,91.66,2,caught,2,v Zimbabwe,Sharjah,1998-11-11,https://stats.espncricinfo.com/ci/engine/match/65885.html,192,10,5.729166666666666
-124,140,92,12,6,134.78,2,not out,2,v Zimbabwe,Sharjah,1998-11-13,https://stats.espncricinfo.com/ci/engine/match/65886.html,197,10,62.944162436548226
-0,10,5,0,0,0.00,2,caught,1,v New Zealand,Taupo,1999-01-09,https://stats.espncricinfo.com/ci/engine/match/64598.html,257,5,0.0
-23,37,19,4,0,121.05,2,caught,2,v New Zealand,Napier,1999-01-12,https://stats.espncricinfo.com/ci/engine/match/64599.html,214,8,10.74766355140187
-45,68,42,2,2,107.14,2,stumped,1,v New Zealand,Wellington,1999-01-14,https://stats.espncricinfo.com/ci/engine/match/64600.html,208,4,21.634615384615387
-5,27,12,1,0,41.66,1,lbw,2,v New Zealand,Auckland,1999-01-16,https://stats.espncricinfo.com/ci/engine/match/64601.html,208,5,2.403846153846154
-28,71,46,5,0,60.86,2,caught,1,v South Africa,Hove,1999-05-15,https://stats.espncricinfo.com/ci/engine/match/65194.html,253,5,11.067193675889328
-140,114,101,16,3,138.61,4,not out,1,v Kenya,Bristol,1999-05-23,https://stats.espncricinfo.com/ci/engine/match/65207.html,329,2,42.5531914893617
-2,10,3,0,0,66.66,4,bowled,1,v Sri Lanka,Taunton,1999-05-26,https://stats.espncricinfo.com/ci/engine/match/65213.html,373,6,0.5361930294906166
-22,49,40,2,0,55.00,4,caught,1,v England,Birmingham,1999-05-29,https://stats.espncricinfo.com/ci/engine/match/65217.html,232,8,9.482758620689655
-0,5,4,0,0,0.00,2,caught,2,v Australia,The Oval,1999-06-04,https://stats.espncricinfo.com/ci/engine/match/65223.html,205,10,0.0
-45,92,65,5,0,69.23,1,caught,1,v Pakistan,Manchester,1999-06-08,https://stats.espncricinfo.com/ci/engine/match/65226.html,227,6,19.823788546255507
-16,26,22,2,0,72.72,1,bowled,1,v New Zealand,Nottingham,1999-06-12,https://stats.espncricinfo.com/ci/engine/match/65230.html,251,6,6.374501992031872
-14,52,33,0,0,42.42,2,caught,1,v Australia,Galle,1999-08-23,https://stats.espncricinfo.com/ci/engine/match/66226.html,151,7,9.271523178807946
-37,105,58,1,0,63.79,2,run out,1,v Sri Lanka,Colombo (RPS),1999-08-25,https://stats.espncricinfo.com/ci/engine/match/66227.html,205,8,18.048780487804876
-120,191,141,11,2,85.10,1,caught,1,v Sri Lanka,Colombo (SSC),1999-08-29,https://stats.espncricinfo.com/ci/engine/match/66230.html,296,4,40.54054054054054
-85,114,72,7,3,118.05,2,caught,1,v Zimbabwe,Singapore,1999-09-04,https://stats.espncricinfo.com/ci/engine/match/66233.html,245,6,34.69387755102041
-40,97,65,6,0,61.53,1,caught,1,v West Indies,Singapore,1999-09-07,https://stats.espncricinfo.com/ci/engine/match/66235.html,149,6,26.845637583892618
-0,-,6,0,0,0.00,1,caught,1,v West Indies,Singapore,1999-09-08,https://stats.espncricinfo.com/ci/engine/match/66236.html,254,6,0.0
-32,61,31,2,1,103.22,2,caught,2,v New Zealand,Rajkot,1999-11-05,https://stats.espncricinfo.com/ci/engine/match/64630.html,306,10,10.457516339869281
-186,221,150,20,3,124.00,2,not out,1,v New Zealand,Hyderabad (Deccan),1999-11-08,https://stats.espncricinfo.com/ci/engine/match/64631.html,376,2,49.46808510638298
-1,41,23,0,0,4.34,2,caught,1,v New Zealand,Gwalior,1999-11-11,https://stats.espncricinfo.com/ci/engine/match/64632.html,261,5,0.38314176245210724
-2,21,10,0,0,20.00,2,caught,2,v New Zealand,Guwahati,1999-11-14,https://stats.espncricinfo.com/ci/engine/match/64633.html,188,10,1.0638297872340425
-0,2,3,0,0,0.00,4,caught,2,v New Zealand,Delhi,1999-11-17,https://stats.espncricinfo.com/ci/engine/match/64634.html,181,3,0.0
-13,28,26,2,0,50.00,4,bowled,1,v Pakistan,Brisbane,2000-01-10,https://stats.espncricinfo.com/ci/engine/match/65588.html,195,10,6.666666666666667
-12,25,11,2,0,109.09,4,run out,2,v Australia,Melbourne,2000-01-12,https://stats.espncricinfo.com/ci/engine/match/65589.html,241,6,4.979253112033195
-1,13,11,0,0,9.09,2,caught,1,v Australia,Sydney,2000-01-14,https://stats.espncricinfo.com/ci/engine/match/65590.html,100,10,1.0
-93,157,103,10,0,90.29,1,bowled,2,v Pakistan,Hobart,2000-01-21,https://stats.espncricinfo.com/ci/engine/match/65593.html,230,10,40.43478260869565
-41,69,46,5,0,89.13,1,caught,1,v Pakistan,Adelaide,2000-01-25,https://stats.espncricinfo.com/ci/engine/match/65595.html,267,6,15.355805243445692
-18,45,28,2,0,64.28,1,caught,2,v Australia,Adelaide,2000-01-26,https://stats.espncricinfo.com/ci/engine/match/65596.html,177,10,10.16949152542373
-17,19,14,4,0,121.42,1,caught,2,v Pakistan,Perth,2000-01-28,https://stats.espncricinfo.com/ci/engine/match/65597.html,157,10,10.828025477707007
-3,23,21,0,0,14.28,2,bowled,1,v Australia,Perth,2000-01-30,https://stats.espncricinfo.com/ci/engine/match/65598.html,226,6,1.3274336283185841
-26,66,25,4,0,104.00,2,caught,2,v South Africa,Kochi,2000-03-09,https://stats.espncricinfo.com/ci/engine/match/64657.html,302,7,8.609271523178808
-21,39,31,3,0,67.74,2,caught,2,v South Africa,Jamshedpur,2000-03-12,https://stats.espncricinfo.com/ci/engine/match/64658.html,203,4,10.344827586206897
-12,48,28,1,0,42.85,2,lbw,1,v South Africa,Faridabad,2000-03-15,https://stats.espncricinfo.com/ci/engine/match/64659.html,248,8,4.838709677419355
-122,195,138,12,0,88.40,2,caught,2,v South Africa,Vadodara,2000-03-17,https://stats.espncricinfo.com/ci/engine/match/64660.html,283,6,43.109540636042404
-93,119,89,7,4,104.49,2,caught,2,v South Africa,Nagpur,2000-03-19,https://stats.espncricinfo.com/ci/engine/match/64661.html,310,10,30.0
-5,10,8,0,0,62.50,2,bowled,1,v South Africa,Sharjah,2000-03-22,https://stats.espncricinfo.com/ci/engine/match/65782.html,164,10,3.048780487804878
-11,54,28,1,0,39.28,2,lbw,2,v Pakistan,Sharjah,2000-03-23,https://stats.espncricinfo.com/ci/engine/match/65783.html,149,5,7.38255033557047
-10,23,18,1,0,55.55,2,bowled,2,v Pakistan,Sharjah,2000-03-26,https://stats.espncricinfo.com/ci/engine/match/65785.html,174,9,5.747126436781609
-39,117,68,3,0,57.35,1,run out,1,v South Africa,Sharjah,2000-03-27,https://stats.espncricinfo.com/ci/engine/match/65786.html,164,10,23.78048780487805
-36,55,25,4,2,144.00,2,caught,2,v Bangladesh,Dhaka,2000-05-30,https://stats.espncricinfo.com/ci/engine/match/65700.html,252,2,14.285714285714285
-93,174,95,10,0,97.89,2,caught,2,v Sri Lanka,Dhaka,2000-06-01,https://stats.espncricinfo.com/ci/engine/match/65701.html,205,10,45.36585365853659
-25,74,30,4,0,83.33,2,lbw,2,v Pakistan,Dhaka,2000-06-03,https://stats.espncricinfo.com/ci/engine/match/65703.html,251,10,9.9601593625498
-25,55,35,4,0,71.42,2,lbw,2,v Kenya,Nairobi (Gym),2000-10-03,https://stats.espncricinfo.com/ci/engine/match/66170.html,209,2,11.961722488038278
-38,58,37,3,3,102.70,2,caught,1,v Australia,Nairobi (Gym),2000-10-07,https://stats.espncricinfo.com/ci/engine/match/66173.html,265,9,14.339622641509434
-39,61,50,4,0,78.00,2,caught,1,v South Africa,Nairobi (Gym),2000-10-13,https://stats.espncricinfo.com/ci/engine/match/66178.html,295,6,13.220338983050848
-69,103,83,10,1,83.13,2,run out,1,v New Zealand,Nairobi (Gym),2000-10-15,https://stats.espncricinfo.com/ci/engine/match/66179.html,264,6,26.136363636363637
-101,-,140,3,1,72.14,2,run out,1,v Sri Lanka,Sharjah,2000-10-20,https://stats.espncricinfo.com/ci/engine/match/65894.html,224,8,45.089285714285715
-8,-,15,1,0,53.33,2,caught,1,v Zimbabwe,Sharjah,2000-10-22,https://stats.espncricinfo.com/ci/engine/match/65896.html,265,8,3.018867924528302
-4,-,10,0,0,40.00,1,caught,2,v Zimbabwe,Sharjah,2000-10-26,https://stats.espncricinfo.com/ci/engine/match/65898.html,219,7,1.82648401826484
-61,-,54,7,0,112.96,2,caught,2,v Sri Lanka,Sharjah,2000-10-27,https://stats.espncricinfo.com/ci/engine/match/65899.html,226,10,26.991150442477874
-5,-,11,0,0,45.45,2,caught,2,v Sri Lanka,Sharjah,2000-10-29,https://stats.espncricinfo.com/ci/engine/match/65900.html,54,10,9.25925925925926
-44,90,49,7,0,89.79,2,caught,2,v Zimbabwe,Cuttack,2000-12-02,https://stats.espncricinfo.com/ci/engine/match/64680.html,255,7,17.254901960784313
-8,27,20,0,0,40.00,1,caught,1,v Zimbabwe,Ahmedabad,2000-12-05,https://stats.espncricinfo.com/ci/engine/match/64681.html,306,5,2.6143790849673203
-146,200,153,15,2,95.42,2,caught,1,v Zimbabwe,Jodhpur,2000-12-08,https://stats.espncricinfo.com/ci/engine/match/64682.html,283,8,51.590106007067135
-62,113,86,9,0,72.09,2,lbw,2,v Zimbabwe,Kanpur,2000-12-11,https://stats.espncricinfo.com/ci/engine/match/64683.html,166,1,37.34939759036144
-27,38,38,5,0,71.05,2,bowled,1,v Zimbabwe,Rajkot,2000-12-14,https://stats.espncricinfo.com/ci/engine/match/64684.html,301,6,8.970099667774086
-35,47,26,6,1,134.61,2,run out,1,v Australia,Bengaluru,2001-03-25,https://stats.espncricinfo.com/ci/engine/match/64706.html,315,10,11.11111111111111
-32,35,29,6,1,110.34,2,caught,1,v Australia,Pune,2001-03-28,https://stats.espncricinfo.com/ci/engine/match/64708.html,248,9,12.903225806451612
-139,197,125,19,0,111.20,2,caught,1,v Australia,Indore,2001-03-31,https://stats.espncricinfo.com/ci/engine/match/64709.html,299,8,46.48829431438127
-62,68,38,11,0,163.15,2,caught,2,v Australia,Visakhapatnam,2001-04-03,https://stats.espncricinfo.com/ci/engine/match/64710.html,245,10,25.30612244897959
-12,17,15,2,0,80.00,2,caught,1,v Australia,Margao,2001-04-06,https://stats.espncricinfo.com/ci/engine/match/64711.html,265,6,4.528301886792453
-70,129,70,13,0,100.00,2,not out,2,v Zimbabwe,Harare,2001-06-24,https://stats.espncricinfo.com/ci/engine/match/66313.html,137,1,51.09489051094891
-9,42,27,0,0,33.33,2,caught,2,v Zimbabwe,Bulawayo,2001-06-27,https://stats.espncricinfo.com/ci/engine/match/66314.html,237,6,3.79746835443038
-81,191,110,8,0,73.63,2,not out,2,v West Indies,Bulawayo,2001-06-30,https://stats.espncricinfo.com/ci/engine/match/66315.html,170,4,47.647058823529406
-122,210,131,12,1,93.12,2,not out,2,v West Indies,Harare,2001-07-04,https://stats.espncricinfo.com/ci/engine/match/66317.html,230,4,53.04347826086957
-0,10,4,0,0,0.00,2,caught,2,v West Indies,Harare,2001-07-07,https://stats.espncricinfo.com/ci/engine/match/66318.html,274,8,0.0
-101,209,129,9,0,78.29,2,caught,1,v South Africa,Johannesburg,2001-10-05,https://stats.espncricinfo.com/ci/engine/match/66098.html,279,5,36.200716845878134
-38,82,57,5,0,66.66,2,caught,1,v South Africa,Centurion,2001-10-10,https://stats.espncricinfo.com/ci/engine/match/66100.html,233,10,16.30901287553648
-3,24,20,0,0,15.00,2,bowled,2,v Kenya,Gqeberha,2001-10-17,https://stats.espncricinfo.com/ci/engine/match/66103.html,176,10,1.7045454545454544
-37,68,35,5,0,105.71,2,bowled,2,v South Africa,East London,2001-10-19,https://stats.espncricinfo.com/ci/engine/match/66104.html,236,10,15.677966101694915
-146,186,132,17,0,110.60,2,caught,1,v Kenya,Paarl,2001-10-24,https://stats.espncricinfo.com/ci/engine/match/66106.html,351,3,41.5954415954416
-17,49,42,3,0,40.47,2,bowled,1,v South Africa,Durban,2001-10-26,https://stats.espncricinfo.com/ci/engine/match/66107.html,183,10,9.289617486338798
-36,71,43,6,0,83.72,2,bowled,1,v England,Eden Gardens,2002-01-19,https://stats.espncricinfo.com/ci/engine/match/64736.html,281,8,12.811387900355871
-45,101,60,6,0,75.00,2,run out,2,v England,Cuttack,2002-01-22,https://stats.espncricinfo.com/ci/engine/match/64738.html,234,10,19.230769230769234
-68,110,79,10,0,86.07,1,lbw,2,v England,Chennai,2002-01-25,https://stats.espncricinfo.com/ci/engine/match/64741.html,221,6,30.76923076923077
-87,120,67,13,1,129.85,1,not out,2,v England,Kanpur,2002-01-28,https://stats.espncricinfo.com/ci/engine/match/64742.html,219,2,39.726027397260275
-18,20,16,3,0,112.50,2,caught,2,v England,Delhi,2002-01-31,https://stats.espncricinfo.com/ci/engine/match/64743.html,269,8,6.691449814126393
-12,22,18,1,1,66.66,2,caught,2,v England,Wankhede,2002-02-03,https://stats.espncricinfo.com/ci/engine/match/64744.html,250,10,4.8
-34,64,45,2,0,75.55,4,not out,2,v West Indies,Bridgetown,2002-05-29,https://stats.espncricinfo.com/ci/engine/match/64768.html,187,3,18.181818181818183
-65,110,70,3,1,92.85,4,bowled,1,v West Indies,Port of Spain,2002-06-02,https://stats.espncricinfo.com/ci/engine/match/64770.html,260,10,25.0
-1,12,9,0,0,11.11,4,lbw,2,v England,Lord's,2002-06-29,https://stats.espncricinfo.com/ci/engine/match/66284.html,272,4,0.3676470588235294
-49,123,70,3,1,70.00,4,caught,2,v Sri Lanka,The Oval,2002-06-30,https://stats.espncricinfo.com/ci/engine/match/66285.html,203,6,24.137931034482758
-105,167,108,8,1,97.22,4,not out,1,v England,Chester-le-Street,2002-07-04,https://stats.espncricinfo.com/ci/engine/match/66287.html,285,4,36.84210526315789
-19,35,25,3,0,76.00,4,caught,2,v Sri Lanka,Birmingham,2002-07-06,https://stats.espncricinfo.com/ci/engine/match/66288.html,188,6,10.106382978723403
-36,60,29,5,0,124.13,4,caught,2,v England,The Oval,2002-07-09,https://stats.espncricinfo.com/ci/engine/match/66290.html,165,10,21.818181818181817
-113,141,102,12,1,110.78,4,caught,1,v Sri Lanka,Bristol,2002-07-11,https://stats.espncricinfo.com/ci/engine/match/66291.html,304,10,37.17105263157895
-14,31,19,1,0,73.68,4,bowled,2,v England,Lord's,2002-07-13,https://stats.espncricinfo.com/ci/engine/match/66292.html,326,8,4.294478527607362
-7,39,16,0,0,43.75,4,caught,1,v Zimbabwe,Colombo (RPS),2002-09-14,https://stats.espncricinfo.com/ci/engine/match/66182.html,288,6,2.430555555555556
-9,34,20,0,0,45.00,4,not out,2,v England,Colombo (RPS),2002-09-22,https://stats.espncricinfo.com/ci/engine/match/66190.html,271,2,3.3210332103321036
-16,39,29,1,0,55.17,4,run out,1,v South Africa,Colombo (RPS),2002-09-25,https://stats.espncricinfo.com/ci/engine/match/66192.html,261,9,6.130268199233716
-7,33,22,1,0,31.81,3,not out,2,v Sri Lanka,Colombo (RPS),2002-09-30,https://stats.espncricinfo.com/ci/engine/match/66195.html,38,1,18.421052631578945
-0,9,10,0,0,0.00,4,lbw,2,v New Zealand,Wellington,2003-01-08,https://stats.espncricinfo.com/ci/engine/match/64817.html,169,8,0.0
-1,21,13,0,0,7.69,4,caught,2,v New Zealand,Auckland,2003-01-11,https://stats.espncricinfo.com/ci/engine/match/64818.html,200,9,0.5
-1,7,6,0,0,16.66,3,caught,1,v New Zealand,Hamilton,2003-01-14,https://stats.espncricinfo.com/ci/engine/match/64819.html,122,10,0.819672131147541
-52,91,72,7,0,72.22,2,caught,1,v Netherlands,Paarl,2003-02-12,https://stats.espncricinfo.com/ci/engine/match/65241.html,204,10,25.49019607843137
-36,127,59,3,0,61.01,2,lbw,1,v Australia,Centurion,2003-02-15,https://stats.espncricinfo.com/ci/engine/match/65244.html,125,10,28.799999999999997
-81,122,91,10,0,89.01,2,bowled,1,v Zimbabwe,Harare,2003-02-19,https://stats.espncricinfo.com/ci/engine/match/65250.html,255,7,31.76470588235294
-152,193,151,18,0,100.66,2,bowled,1,v Namibia,Pietermaritzburg,2003-02-23,https://stats.espncricinfo.com/ci/engine/match/65257.html,311,2,48.87459807073955
-50,78,52,8,1,96.15,2,caught,1,v England,Durban,2003-02-26,https://stats.espncricinfo.com/ci/engine/match/65262.html,250,9,20.0
-98,145,75,12,1,130.66,1,caught,2,v Pakistan,Centurion,2003-03-01,https://stats.espncricinfo.com/ci/engine/match/65268.html,276,4,35.507246376811594
-5,21,12,1,0,41.66,2,caught,2,v Kenya,Cape Town,2003-03-07,https://stats.espncricinfo.com/ci/engine/match/65276.html,226,4,2.2123893805309733
-97,160,120,7,1,80.83,1,caught,1,v Sri Lanka,Johannesburg,2003-03-10,https://stats.espncricinfo.com/ci/engine/match/65278.html,292,6,33.21917808219178
-15,25,16,3,0,93.75,2,caught,2,v New Zealand,Centurion,2003-03-14,https://stats.espncricinfo.com/ci/engine/match/65281.html,150,3,10.0
-83,166,101,5,1,82.17,2,caught,1,v Kenya,Durban,2003-03-20,https://stats.espncricinfo.com/ci/engine/match/65285.html,270,4,30.74074074074074
-4,2,5,1,0,80.00,1,caught,2,v Australia,Johannesburg,2003-03-23,https://stats.espncricinfo.com/ci/engine/match/65286.html,234,10,1.7094017094017095
-48,119,66,5,0,72.72,2,not out,1,v New Zealand,Chennai,2003-10-23,https://stats.espncricinfo.com/ci/engine/match/66364.html,141,3,34.04255319148936
-100,158,119,9,1,84.03,2,caught,1,v Australia,Gwalior,2003-10-26,https://stats.espncricinfo.com/ci/engine/match/66365.html,283,5,35.3356890459364
-68,113,76,10,0,89.47,2,bowled,2,v Australia,Wankhede,2003-11-01,https://stats.espncricinfo.com/ci/engine/match/66367.html,209,10,32.535885167464116
-14,29,14,3,0,100.00,2,lbw,1,v New Zealand,Cuttack,2003-11-06,https://stats.espncricinfo.com/ci/engine/match/66369.html,246,9,5.691056910569105
-89,133,91,12,1,97.80,2,bowled,2,v Australia,Bengaluru,2003-11-12,https://stats.espncricinfo.com/ci/engine/match/66371.html,286,8,31.11888111888112
-102,124,91,12,1,112.08,2,caught,1,v New Zealand,Hyderabad (Deccan),2003-11-15,https://stats.espncricinfo.com/ci/engine/match/66372.html,353,5,28.89518413597734
-45,104,66,5,0,68.18,1,bowled,2,v Australia,Eden Gardens,2003-11-18,https://stats.espncricinfo.com/ci/engine/match/66373.html,198,10,22.727272727272727
-63,117,69,8,1,91.30,2,caught,2,v Australia,Melbourne,2004-01-09,https://stats.espncricinfo.com/ci/engine/match/65643.html,270,10,23.333333333333332
-44,107,59,6,0,74.57,2,bowled,2,v Zimbabwe,Hobart,2004-01-14,https://stats.espncricinfo.com/ci/engine/match/65645.html,211,3,20.85308056872038
-86,129,95,8,0,90.52,2,caught,1,v Australia,Brisbane,2004-01-18,https://stats.espncricinfo.com/ci/engine/match/65647.html,303,4,28.38283828382838
-5,17,6,1,0,83.33,2,caught,1,v Australia,Perth,2004-02-01,https://stats.espncricinfo.com/ci/engine/match/65653.html,203,10,2.4630541871921183
-3,16,8,0,0,37.50,2,caught,2,v Zimbabwe,Perth,2004-02-03,https://stats.espncricinfo.com/ci/engine/match/65654.html,136,6,2.2058823529411766
-8,28,22,1,0,36.36,2,bowled,1,v Australia,Melbourne,2004-02-06,https://stats.espncricinfo.com/ci/engine/match/65655.html,222,10,3.6036036036036037
-27,38,40,4,0,67.50,2,caught,2,v Australia,Sydney,2004-02-08,https://stats.espncricinfo.com/ci/engine/match/65656.html,151,10,17.880794701986755
-28,49,35,4,1,80.00,2,caught,1,v Pakistan,Karachi,2004-03-13,https://stats.espncricinfo.com/ci/engine/match/64880.html,349,7,8.022922636103152
-141,173,135,17,1,104.44,2,caught,2,v Pakistan,Rawalpindi,2004-03-16,https://stats.espncricinfo.com/ci/engine/match/64882.html,317,10,44.479495268138805
-0,7,5,0,0,0.00,2,caught,1,v Pakistan,Peshawar,2004-03-19,https://stats.espncricinfo.com/ci/engine/match/64883.html,244,9,0.0
-7,22,13,1,0,53.84,2,caught,2,v Pakistan,Lahore,2004-03-21,https://stats.espncricinfo.com/ci/engine/match/64884.html,294,5,2.380952380952381
-37,60,48,7,0,77.08,2,caught,1,v Pakistan,Lahore,2004-03-24,https://stats.espncricinfo.com/ci/engine/match/64885.html,293,7,12.627986348122866
-18,39,25,2,0,72.00,2,caught,1,v U.A.E.,Dambulla,2004-07-16,https://stats.espncricinfo.com/ci/engine/match/65707.html,260,6,6.923076923076923
-11,17,13,2,0,84.61,1,caught,2,v Sri Lanka,Dambulla,2004-07-18,https://stats.espncricinfo.com/ci/engine/match/65711.html,270,8,4.074074074074074
-82,157,126,10,1,65.07,2,not out,2,v Bangladesh,Colombo (SSC),2004-07-21,https://stats.espncricinfo.com/ci/engine/match/65712.html,178,2,46.06741573033708
-78,192,103,6,0,75.72,2,caught,2,v Pakistan,Colombo (RPS),2004-07-25,https://stats.espncricinfo.com/ci/engine/match/65715.html,241,8,32.365145228215766
-18,30,21,3,0,85.71,1,lbw,1,v Sri Lanka,Colombo (RPS),2004-07-27,https://stats.espncricinfo.com/ci/engine/match/65716.html,271,6,6.642066420664207
-74,170,100,7,1,74.00,2,bowled,2,v Sri Lanka,Colombo (RPS),2004-08-01,https://stats.espncricinfo.com/ci/engine/match/65718.html,203,9,36.45320197044335
-16,30,17,2,0,94.11,2,run out,1,v Pakistan,Eden Gardens,2004-11-13,https://stats.espncricinfo.com/ci/engine/match/66384.html,292,6,5.47945205479452
-19,46,32,3,0,59.37,2,caught,1,v Bangladesh,Chattogram,2004-12-23,https://stats.espncricinfo.com/ci/engine/match/64914.html,245,8,7.755102040816326
-47,60,42,9,0,111.90,2,caught,1,v Bangladesh,Dhaka,2004-12-27,https://stats.espncricinfo.com/ci/engine/match/64917.html,348,5,13.505747126436782
-4,8,4,1,0,100.00,2,caught,1,v Pakistan,Kochi,2005-04-02,https://stats.espncricinfo.com/ci/engine/match/64938.html,281,8,1.4234875444839856
-2,17,8,0,0,25.00,2,run out,1,v Pakistan,Visakhapatnam,2005-04-05,https://stats.espncricinfo.com/ci/engine/match/64939.html,356,9,0.5617977528089888
-6,15,11,1,0,54.54,2,caught,2,v Pakistan,Jamshedpur,2005-04-09,https://stats.espncricinfo.com/ci/engine/match/64940.html,213,10,2.8169014084507045
-123,192,130,12,2,94.61,2,bowled,1,v Pakistan,Ahmedabad,2005-04-12,https://stats.espncricinfo.com/ci/engine/match/64941.html,315,6,39.04761904761905
-1,13,10,0,0,10.00,2,caught,1,v Pakistan,Kanpur,2005-04-15,https://stats.espncricinfo.com/ci/engine/match/64942.html,249,6,0.4016064257028112
-9,38,15,0,0,60.00,2,bowled,2,v Pakistan,Delhi,2005-04-17,https://stats.espncricinfo.com/ci/engine/match/64943.html,144,10,6.25
-93,149,96,9,2,96.87,2,caught,1,v Sri Lanka,Nagpur,2005-10-25,https://stats.espncricinfo.com/ci/engine/match/223018.html,350,6,26.571428571428573
-67,87,69,11,0,97.10,2,not out,2,v Sri Lanka,Mohali,2005-10-28,https://stats.espncricinfo.com/ci/engine/match/223334.html,123,2,54.47154471544715
-2,2,3,0,0,66.66,2,caught,2,v Sri Lanka,Jaipur,2005-10-31,https://stats.espncricinfo.com/ci/engine/match/223634.html,303,4,0.6600660066006601
-11,28,19,1,1,57.89,2,bowled,2,v Sri Lanka,Pune,2005-11-03,https://stats.espncricinfo.com/ci/engine/match/223902.html,262,6,4.198473282442748
-19,46,30,3,0,63.33,2,caught,2,v Sri Lanka,Rajkot,2005-11-09,https://stats.espncricinfo.com/ci/engine/match/224556.html,197,3,9.644670050761421
-39,76,48,8,0,81.25,2,caught,2,v Sri Lanka,Vadodara,2005-11-12,https://stats.espncricinfo.com/ci/engine/match/225437.html,245,5,15.918367346938775
-2,20,9,0,0,22.22,2,caught,1,v South Africa,Hyderabad,2005-11-16,https://stats.espncricinfo.com/ci/engine/match/225959.html,249,9,0.8032128514056224
-2,31,22,0,0,9.09,2,caught,2,v South Africa,Bengaluru,2005-11-19,https://stats.espncricinfo.com/ci/engine/match/226315.html,171,4,1.1695906432748537
-2,18,15,0,0,13.33,3,caught,1,v South Africa,Eden Gardens,2005-11-25,https://stats.espncricinfo.com/ci/engine/match/226358.html,188,10,1.0638297872340425
-30,77,44,5,0,68.18,2,caught,2,v South Africa,Wankhede,2005-11-28,https://stats.espncricinfo.com/ci/engine/match/226359.html,224,5,13.392857142857142
-100,188,113,10,1,88.49,2,lbw,1,v Pakistan,Peshawar,2006-02-06,https://stats.espncricinfo.com/ci/engine/match/235831.html,328,10,30.48780487804878
-42,71,43,8,0,97.67,2,caught,2,v Pakistan,Rawalpindi,2006-02-11,https://stats.espncricinfo.com/ci/engine/match/236520.html,266,3,15.789473684210526
-95,157,104,16,1,91.34,2,caught,2,v Pakistan,Lahore,2006-02-13,https://stats.espncricinfo.com/ci/engine/match/236809.html,292,5,32.534246575342465
-0,7,3,0,0,0.00,2,caught,2,v Pakistan,Multan,2006-02-16,https://stats.espncricinfo.com/ci/engine/match/237222.html,162,5,0.0
-2,16,3,0,0,66.66,2,not out,1,v Sri Lanka,Colombo (SSC),2006-08-18,https://stats.espncricinfo.com/ci/engine/match/256665.html,11,10,18.181818181818183
-141,-,148,13,5,95.27,2,not out,1,v West Indies,Kuala Lumpur,2006-09-14,https://stats.espncricinfo.com/ci/engine/match/256607.html,309,5,45.63106796116505
-12,30,17,2,0,70.58,2,caught,2,v Australia,Kuala Lumpur,2006-09-16,https://stats.espncricinfo.com/ci/engine/match/256608.html,35,5,34.285714285714285
-65,154,102,7,0,63.72,2,run out,1,v West Indies,Kuala Lumpur,2006-09-20,https://stats.espncricinfo.com/ci/engine/match/256612.html,162,10,40.123456790123456
-4,11,10,1,0,40.00,2,caught,2,v Australia,Kuala Lumpur,2006-09-22,https://stats.espncricinfo.com/ci/engine/match/256614.html,195,10,2.051282051282051
-35,87,41,5,0,85.36,2,lbw,2,v England,Jaipur,2006-10-15,https://stats.espncricinfo.com/ci/engine/match/249745.html,126,6,27.77777777777778
-29,81,45,4,0,64.44,2,bowled,1,v West Indies,Ahmedabad,2006-10-26,https://stats.espncricinfo.com/ci/engine/match/249753.html,223,9,13.004484304932735
-10,46,26,2,0,38.46,2,caught,1,v Australia,Mohali,2006-10-29,https://stats.espncricinfo.com/ci/engine/match/249756.html,249,8,4.016064257028113
-35,79,51,5,0,68.62,2,bowled,2,v South Africa,Durban,2006-11-22,https://stats.espncricinfo.com/ci/engine/match/249211.html,91,10,38.46153846153847
-2,20,9,0,0,22.22,2,caught,2,v South Africa,Cape Town,2006-11-26,https://stats.espncricinfo.com/ci/engine/match/249212.html,168,10,1.1904761904761905
-1,4,3,0,0,33.33,3,caught,2,v South Africa,Gqeberha,2006-11-29,https://stats.espncricinfo.com/ci/engine/match/249213.html,163,10,0.6134969325153374
-55,134,97,8,0,56.70,2,caught,1,v South Africa,Centurion,2006-12-03,https://stats.espncricinfo.com/ci/engine/match/249214.html,200,9,27.500000000000004
-31,54,38,3,0,81.57,3,lbw,1,v West Indies,Nagpur,2007-01-21,https://stats.espncricinfo.com/ci/engine/match/267706.html,338,3,9.171597633136095
-0,6,6,0,0,0.00,4,caught,1,v West Indies,Cuttack,2007-01-24,https://stats.espncricinfo.com/ci/engine/match/267707.html,189,10,0.0
-60,112,66,2,0,90.90,4,caught,1,v West Indies,Chennai,2007-01-27,https://stats.espncricinfo.com/ci/engine/match/267708.html,268,10,22.388059701492537
-100,110,76,10,1,131.57,4,not out,1,v West Indies,Vadodara,2007-01-31,https://stats.espncricinfo.com/ci/engine/match/267709.html,341,3,29.32551319648094
-54,94,61,9,0,88.52,4,stumped,2,v Sri Lanka,Rajkot,2007-02-11,https://stats.espncricinfo.com/ci/engine/match/267712.html,252,9,21.428571428571427
-1,13,8,0,0,12.50,3,bowled,2,v Sri Lanka,Margao,2007-02-14,https://stats.espncricinfo.com/ci/engine/match/267715.html,233,5,0.4291845493562232
-7,40,26,1,0,26.92,4,caught,1,v Bangladesh,Port of Spain,2007-03-17,https://stats.espncricinfo.com/ci/engine/match/247464.html,191,10,3.664921465968586
-57,46,29,2,4,196.55,6,not out,1,v Bermuda,Port of Spain,2007-03-19,https://stats.espncricinfo.com/ci/engine/match/247468.html,413,5,13.801452784503631
-0,5,3,0,0,0.00,4,bowled,2,v Sri Lanka,Port of Spain,2007-03-23,https://stats.espncricinfo.com/ci/engine/match/247476.html,185,10,0.0
-4,4,3,1,0,133.33,2,bowled,2,v Ireland,Belfast,2007-06-23,https://stats.espncricinfo.com/ci/engine/match/293071.html,171,1,2.3391812865497075
-99,199,143,12,0,69.23,2,run out,1,v South Africa,Belfast,2007-06-26,https://stats.espncricinfo.com/ci/engine/match/293076.html,242,8,40.909090909090914
-93,140,106,13,2,87.73,2,bowled,2,v South Africa,Belfast,2007-06-29,https://stats.espncricinfo.com/ci/engine/match/293077.html,227,4,40.969162995594715
-8,10,8,2,0,100.00,2,caught,2,v South Africa,Belfast,2007-07-01,https://stats.espncricinfo.com/ci/engine/match/293078.html,152,4,5.263157894736842
-17,52,33,1,0,51.51,2,caught,2,v England,Southampton,2007-08-21,https://stats.espncricinfo.com/ci/engine/match/258471.html,184,10,9.239130434782608
-99,158,112,15,1,88.39,2,caught,1,v England,Bristol,2007-08-24,https://stats.espncricinfo.com/ci/engine/match/258472.html,329,7,30.091185410334347
-8,42,19,1,0,42.10,2,caught,2,v England,Birmingham,2007-08-27,https://stats.espncricinfo.com/ci/engine/match/258473.html,239,10,3.3472803347280333
-55,128,86,9,0,63.95,2,caught,1,v England,Manchester,2007-08-30,https://stats.espncricinfo.com/ci/engine/match/258474.html,212,10,25.943396226415093
-71,87,59,13,0,120.33,2,caught,1,v England,Leeds,2007-09-02,https://stats.espncricinfo.com/ci/engine/match/258475.html,324,6,21.91358024691358
-94,120,81,16,1,116.04,2,caught,2,v England,The Oval,2007-09-05,https://stats.espncricinfo.com/ci/engine/match/258476.html,317,8,29.652996845425868
-30,80,46,4,0,65.21,2,caught,1,v England,Lord's,2007-09-08,https://stats.espncricinfo.com/ci/engine/match/258477.html,187,10,16.0427807486631
-0,9,6,0,0,0.00,2,lbw,2,v Australia,Bengaluru,2007-09-29,https://stats.espncricinfo.com/ci/engine/match/297793.html,9,1,0.0
-16,43,25,1,1,64.00,2,caught,2,v Australia,Kochi,2007-10-02,https://stats.espncricinfo.com/ci/engine/match/297794.html,222,10,7.207207207207207
-43,119,71,6,0,60.56,2,bowled,2,v Australia,Hyderabad,2007-10-05,https://stats.espncricinfo.com/ci/engine/match/297795.html,243,10,17.695473251028808
-79,184,119,7,0,66.38,2,run out,1,v Australia,Chandigarh,2007-10-08,https://stats.espncricinfo.com/ci/engine/match/297796.html,291,4,27.147766323024054
-47,128,73,9,0,64.38,2,caught,1,v Australia,Vadodara,2007-10-11,https://stats.espncricinfo.com/ci/engine/match/297797.html,148,10,31.756756756756754
-72,105,72,9,1,100.00,2,stumped,2,v Australia,Nagpur,2007-10-14,https://stats.espncricinfo.com/ci/engine/match/297798.html,299,7,24.08026755852843
-21,52,36,4,0,58.33,2,bowled,2,v Australia,Wankhede,2007-10-17,https://stats.espncricinfo.com/ci/engine/match/297799.html,195,8,10.76923076923077
-4,14,7,1,0,57.14,2,lbw,2,v Pakistan,Guwahati,2007-11-05,https://stats.espncricinfo.com/ci/engine/match/297801.html,242,5,1.6528925619834711
-99,130,91,14,1,108.79,2,caught,1,v Pakistan,Mohali,2007-11-08,https://stats.espncricinfo.com/ci/engine/match/297802.html,321,9,30.8411214953271
-29,54,27,5,0,107.40,2,caught,1,v Pakistan,Kanpur,2007-11-11,https://stats.espncricinfo.com/ci/engine/match/297803.html,294,6,9.863945578231291
-97,149,102,16,0,95.09,2,bowled,2,v Pakistan,Gwalior,2007-11-15,https://stats.espncricinfo.com/ci/engine/match/297804.html,260,4,37.30769230769231
-30,54,27,6,0,111.11,2,caught,2,v Pakistan,Jaipur,2007-11-18,https://stats.espncricinfo.com/ci/engine/match/297805.html,275,10,10.909090909090908
-10,30,17,1,0,58.82,2,hit wicket,1,v Australia,Brisbane,2008-02-03,https://stats.espncricinfo.com/ci/engine/match/291359.html,194,10,5.154639175257731
-35,70,52,2,0,67.30,2,bowled,1,v Sri Lanka,Brisbane,2008-02-05,https://stats.espncricinfo.com/ci/engine/match/291360.html,267,4,13.108614232209737
-44,123,54,3,0,81.48,2,caught,2,v Australia,Melbourne,2008-02-10,https://stats.espncricinfo.com/ci/engine/match/291362.html,160,5,27.500000000000004
-32,41,30,4,0,106.66,2,caught,1,v Sri Lanka,Canberra,2008-02-12,https://stats.espncricinfo.com/ci/engine/match/291363.html,195,5,16.41025641025641
-5,23,15,1,0,33.33,2,lbw,2,v Australia,Adelaide,2008-02-17,https://stats.espncricinfo.com/ci/engine/match/291365.html,153,10,3.2679738562091507
-0,6,2,0,0,0.00,2,bowled,2,v Sri Lanka,Adelaide,2008-02-19,https://stats.espncricinfo.com/ci/engine/match/291366.html,239,8,0.0
-2,3,3,0,0,66.66,2,lbw,2,v Australia,Sydney,2008-02-24,https://stats.espncricinfo.com/ci/engine/match/291368.html,299,10,0.6688963210702341
-63,92,54,10,0,116.66,2,caught,2,v Sri Lanka,Hobart,2008-02-26,https://stats.espncricinfo.com/ci/engine/match/291369.html,180,3,35.0
-117,235,120,10,0,97.50,2,not out,2,v Australia,Sydney,2008-03-02,https://stats.espncricinfo.com/ci/engine/match/291371.html,242,4,48.34710743801653
-91,176,121,7,0,75.20,2,caught,1,v Australia,Brisbane,2008-03-04,https://stats.espncricinfo.com/ci/engine/match/291372.html,258,9,35.27131782945737
-11,40,21,2,0,52.38,2,bowled,1,v England,Bengaluru,2008-11-23,https://stats.espncricinfo.com/ci/engine/match/361046.html,166,4,6.626506024096386
-50,99,57,6,0,87.71,2,bowled,2,v England,Cuttack,2008-11-26,https://stats.espncricinfo.com/ci/engine/match/361047.html,273,4,18.315018315018314
-5,15,16,0,0,31.25,2,lbw,2,v Sri Lanka,Dambulla,2009-01-28,https://stats.espncricinfo.com/ci/engine/match/386530.html,247,4,2.0242914979757085
-6,11,9,0,0,66.66,2,lbw,1,v Sri Lanka,Colombo (RPS),2009-01-31,https://stats.espncricinfo.com/ci/engine/match/386531.html,256,9,2.34375
-7,9,12,0,1,58.33,2,lbw,1,v Sri Lanka,Colombo (RPS),2009-02-03,https://stats.espncricinfo.com/ci/engine/match/386532.html,363,5,1.9283746556473829
-20,43,23,2,0,86.95,2,caught,1,v New Zealand,Napier,2009-03-03,https://stats.espncricinfo.com/ci/engine/match/366623.html,273,4,7.326007326007327
-61,100,69,7,1,88.40,2,lbw,1,v New Zealand,Wellington,2009-03-06,https://stats.espncricinfo.com/ci/engine/match/366626.html,188,4,32.4468085106383
-163,206,133,16,5,122.55,2,retired notout,1,v New Zealand,Christchurch,2009-03-08,https://stats.espncricinfo.com/ci/engine/match/366627.html,392,4,41.58163265306122
-46,81,55,6,0,83.63,2,caught,2,v New Zealand,Colombo (RPS),2009-09-11,https://stats.espncricinfo.com/ci/engine/match/403382.html,156,4,29.48717948717949
-27,63,33,5,0,81.81,2,caught,2,v Sri Lanka,Colombo (RPS),2009-09-12,https://stats.espncricinfo.com/ci/engine/match/403381.html,168,10,16.071428571428573
-138,214,133,10,1,103.75,2,lbw,1,v Sri Lanka,Colombo (RPS),2009-09-14,https://stats.espncricinfo.com/ci/engine/match/403383.html,319,5,43.260188087774296
-8,19,14,1,0,57.14,2,caught,2,v Pakistan,Centurion,2009-09-26,https://stats.espncricinfo.com/ci/engine/match/415278.html,248,10,3.225806451612903
-14,40,29,2,0,48.27,2,caught,2,v Australia,Vadodara,2009-10-25,https://stats.espncricinfo.com/ci/engine/match/416236.html,288,8,4.861111111111112
-4,14,8,1,0,50.00,2,caught,1,v Australia,Nagpur,2009-10-28,https://stats.espncricinfo.com/ci/engine/match/416237.html,354,7,1.1299435028248588
-32,63,47,2,0,68.08,2,run out,2,v Australia,Delhi,2009-10-31,https://stats.espncricinfo.com/ci/engine/match/416238.html,230,4,13.91304347826087
-40,86,68,6,0,58.82,2,lbw,2,v Australia,Mohali,2009-11-02,https://stats.espncricinfo.com/ci/engine/match/416239.html,226,10,17.699115044247787
-175,210,141,19,4,124.11,2,caught,2,v Australia,Hyderabad,2009-11-05,https://stats.espncricinfo.com/ci/engine/match/416240.html,347,10,50.43227665706051
-10,23,17,2,0,58.82,2,caught,1,v Australia,Guwahati,2009-11-08,https://stats.espncricinfo.com/ci/engine/match/416241.html,170,10,5.88235294117647
-69,91,63,10,1,109.52,2,bowled,1,v Sri Lanka,Rajkot,2009-12-15,https://stats.espncricinfo.com/ci/engine/match/430886.html,414,7,16.666666666666664
-43,76,52,4,0,82.69,2,stumped,1,v Sri Lanka,Nagpur,2009-12-18,https://stats.espncricinfo.com/ci/engine/match/430887.html,301,7,14.285714285714285
-96,187,104,13,0,92.30,2,not out,2,v Sri Lanka,Cuttack,2009-12-21,https://stats.espncricinfo.com/ci/engine/match/430888.html,243,3,39.50617283950617
-8,-,8,2,0,100.00,2,caught,2,v Sri Lanka,Eden Gardens,2009-12-24,https://stats.espncricinfo.com/ci/engine/match/430889.html,317,3,2.5236593059936907
-4,-,5,1,0,80.00,2,run out,1,v South Africa,Jaipur,2010-02-21,https://stats.espncricinfo.com/ci/engine/match/441827.html,298,9,1.342281879194631
-200,226,147,25,3,136.05,2,not out,1,v South Africa,Gwalior,2010-02-24,https://stats.espncricinfo.com/ci/engine/match/441828.html,401,3,49.87531172069826
-7,16,11,0,0,63.63,2,caught,2,v South Africa,Durban,2011-01-12,https://stats.espncricinfo.com/ci/engine/match/463150.html,154,10,4.545454545454546
-24,78,44,2,0,54.54,2,bowled,1,v South Africa,Johannesburg,2011-01-15,https://stats.espncricinfo.com/ci/engine/match/463151.html,190,10,12.631578947368421
-28,46,29,4,0,96.55,2,run out,1,v Bangladesh,Mirpur,2011-02-19,https://stats.espncricinfo.com/ci/engine/match/433558.html,370,4,7.567567567567568
-120,170,115,10,5,104.34,2,caught,1,v England,Bengaluru,2011-02-27,https://stats.espncricinfo.com/ci/engine/match/433568.html,338,10,35.50295857988166
-38,91,56,4,0,67.85,2,lbw,2,v Ireland,Bengaluru,2011-03-06,https://stats.espncricinfo.com/ci/engine/match/433578.html,210,5,18.095238095238095
-27,45,22,6,0,122.72,2,caught,2,v Netherlands,Delhi,2011-03-09,https://stats.espncricinfo.com/ci/engine/match/433582.html,191,5,14.136125654450263
-111,184,101,8,3,109.90,2,caught,1,v South Africa,Nagpur,2011-03-12,https://stats.espncricinfo.com/ci/engine/match/433586.html,296,10,37.5
-2,4,4,0,0,50.00,2,caught,1,v West Indies,Chennai,2011-03-20,https://stats.espncricinfo.com/ci/engine/match/433599.html,268,10,0.7462686567164178
-53,93,68,7,0,77.94,2,caught,2,v Australia,Ahmedabad,2011-03-24,https://stats.espncricinfo.com/ci/engine/match/433601.html,261,5,20.306513409961685
-85,160,115,11,0,73.91,2,caught,1,v Pakistan,Mohali,2011-03-30,https://stats.espncricinfo.com/ci/engine/match/433605.html,260,9,32.69230769230769
-18,21,14,2,0,128.57,2,caught,2,v Sri Lanka,Wankhede,2011-04-02,https://stats.espncricinfo.com/ci/engine/match/433606.html,277,4,6.4981949458483745
-2,9,6,0,0,33.33,2,caught,2,v Australia,Melbourne,2012-02-05,https://stats.espncricinfo.com/ci/engine/match/518956.html,151,10,1.3245033112582782
-48,87,63,5,0,76.19,2,bowled,2,v Sri Lanka,Perth,2012-02-08,https://stats.espncricinfo.com/ci/engine/match/518957.html,234,6,20.51282051282051
-15,25,24,2,0,62.50,2,caught,2,v Sri Lanka,Adelaide,2012-02-14,https://stats.espncricinfo.com/ci/engine/match/518960.html,236,9,6.3559322033898304
-3,21,12,0,0,25.00,2,caught,2,v Australia,Brisbane,2012-02-19,https://stats.espncricinfo.com/ci/engine/match/518962.html,178,10,1.6853932584269662
-22,33,23,3,0,95.65,2,bowled,2,v Sri Lanka,Brisbane,2012-02-21,https://stats.espncricinfo.com/ci/engine/match/518963.html,238,10,9.243697478991598
-14,34,15,2,0,93.33,2,run out,2,v Australia,Sydney,2012-02-26,https://stats.espncricinfo.com/ci/engine/match/518965.html,165,10,8.484848484848486
-39,45,30,5,0,130.00,2,lbw,2,v Sri Lanka,Hobart,2012-02-28,https://stats.espncricinfo.com/ci/engine/match/518966.html,321,3,12.149532710280374
-6,25,19,1,0,31.57,2,caught,1,v Sri Lanka,Mirpur,2012-03-13,https://stats.espncricinfo.com/ci/engine/match/535795.html,304,3,1.9736842105263157
-114,205,147,12,1,77.55,2,caught,1,v Bangladesh,Mirpur,2012-03-16,https://stats.espncricinfo.com/ci/engine/match/535797.html,289,5,39.44636678200692
-52,93,48,5,1,108.33,2,caught,2,v Pakistan,Mirpur,2012-03-18,https://stats.espncricinfo.com/ci/engine/match/535798.html,330,4,15.757575757575756
+Runs,Mins,BF,4s,6s,SR,Pos,Dismissal,Inns,Opposition,Ground,Start Date,Match URL,Team Total,Wickets Fallen,Percentage Scored,Match Result
+0,-,2,0,0,0.00,5,caught,2,v Pakistan,Gujranwala,1989-12-18,https://stats.espncricinfo.com/ci/engine/match/64346.html,80,9,0.0,L
+0,2,2,0,0,0.00,5,caught,2,v New Zealand,Dunedin,1990-03-01,https://stats.espncricinfo.com/ci/engine/match/65933.html,138,10,0.0,L
+36,51,39,5,0,92.30,6,caught,1,v New Zealand,Wellington,1990-03-06,https://stats.espncricinfo.com/ci/engine/match/65936.html,221,10,16.289592760180994,W
+10,-,12,0,0,83.33,5,run out,1,v Sri Lanka,Sharjah,1990-04-25,https://stats.espncricinfo.com/ci/engine/match/65817.html,241,8,4.149377593360995,L
+20,-,25,1,0,80.00,7,caught,2,v Pakistan,Sharjah,1990-04-27,https://stats.espncricinfo.com/ci/engine/match/65819.html,209,10,9.569377990430622,L
+19,38,35,1,1,54.28,4,bowled,2,v England,Leeds,1990-07-18,https://stats.espncricinfo.com/ci/engine/match/64998.html,233,4,8.15450643776824,W
+31,31,26,3,0,119.23,6,bowled,2,v England,Nottingham,1990-07-20,https://stats.espncricinfo.com/ci/engine/match/64999.html,282,5,10.99290780141844,W
+36,-,22,3,2,163.63,5,bowled,1,v Sri Lanka,Nagpur,1990-12-01,https://stats.espncricinfo.com/ci/engine/match/64361.html,245,5,14.69387755102041,W
+53,-,41,7,1,129.26,5,bowled,2,v Sri Lanka,Pune,1990-12-05,https://stats.espncricinfo.com/ci/engine/match/64362.html,230,4,23.043478260869566,W
+30,-,29,1,2,103.44,5,caught,1,v Sri Lanka,Margao,1990-12-08,https://stats.espncricinfo.com/ci/engine/match/64363.html,136,10,22.058823529411764,L
+4,-,11,0,0,36.36,5,lbw,2,v Sri Lanka,Cuttack,1990-12-28,https://stats.espncricinfo.com/ci/engine/match/65682.html,178,10,2.247191011235955,L
+53,-,70,2,0,75.71,4,lbw,2,v Sri Lanka,Eden Gardens,1991-01-04,https://stats.espncricinfo.com/ci/engine/match/65684.html,205,3,25.853658536585368,W
+52,-,40,5,0,130.00,5,not out,1,v Pakistan,Sharjah,1991-10-18,https://stats.espncricinfo.com/ci/engine/match/65941.html,238,4,21.84873949579832,W
+22,-,27,3,0,81.48,5,run out,1,v West Indies,Sharjah,1991-10-19,https://stats.espncricinfo.com/ci/engine/match/65942.html,240,6,9.166666666666666,W
+11,-,27,1,0,40.74,5,not out,2,v West Indies,Sharjah,1991-10-22,https://stats.espncricinfo.com/ci/engine/match/65944.html,147,3,7.482993197278912,W
+49,-,38,3,2,128.94,5,caught,2,v Pakistan,Sharjah,1991-10-23,https://stats.espncricinfo.com/ci/engine/match/65945.html,253,6,19.367588932806324,L
+0,-,1,0,0,0.00,5,lbw,2,v Pakistan,Sharjah,1991-10-25,https://stats.espncricinfo.com/ci/engine/match/65946.html,190,10,0.0,L
+62,-,73,8,1,84.93,4,caught,2,v South Africa,Eden Gardens,1991-11-10,https://stats.espncricinfo.com/ci/engine/match/64375.html,178,7,34.831460674157306,W
+4,-,8,0,0,50.00,4,caught,1,v South Africa,Gwalior,1991-11-12,https://stats.espncricinfo.com/ci/engine/match/64376.html,223,6,1.7937219730941705,W
+1,-,3,0,0,33.33,4,caught,1,v South Africa,New Delhi,1991-11-14,https://stats.espncricinfo.com/ci/engine/match/64377.html,287,4,0.34843205574912894,L
+1,14,9,0,0,11.11,4,caught,1,v West Indies,Perth,1991-12-06,https://stats.espncricinfo.com/ci/engine/match/65479.html,126,10,0.7936507936507936,L
+36,79,65,3,0,55.38,4,caught,1,v Australia,Perth,1991-12-08,https://stats.espncricinfo.com/ci/engine/match/65480.html,208,7,17.307692307692307,W
+57,111,107,3,0,53.27,4,caught,1,v Australia,Hobart,1991-12-10,https://stats.espncricinfo.com/ci/engine/match/65481.html,175,8,32.57142857142858,L
+48,62,57,2,0,84.21,4,caught,1,v West Indies,Adelaide,1991-12-14,https://stats.espncricinfo.com/ci/engine/match/65483.html,262,4,18.3206106870229,W
+21,38,35,3,0,60.00,4,caught,1,v Australia,Adelaide,1991-12-15,https://stats.espncricinfo.com/ci/engine/match/65484.html,157,10,13.375796178343949,L
+77,157,127,5,0,60.62,4,caught,1,v West Indies,Brisbane,1992-01-11,https://stats.espncricinfo.com/ci/engine/match/65487.html,191,10,40.31413612565445,L
+31,64,44,1,0,70.45,5,run out,1,v Australia,Sydney,1992-01-14,https://stats.espncricinfo.com/ci/engine/match/65489.html,175,10,17.71428571428571,L
+57,118,88,2,0,64.77,4,not out,2,v West Indies,Melbourne,1992-01-16,https://stats.espncricinfo.com/ci/engine/match/65490.html,176,5,32.38636363636363,W
+4,12,10,0,0,40.00,4,caught,2,v Australia,Melbourne,1992-01-18,https://stats.espncricinfo.com/ci/engine/match/65491.html,145,10,2.7586206896551726,L
+69,116,100,3,0,69.00,4,caught,2,v Australia,Sydney,1992-01-20,https://stats.espncricinfo.com/ci/engine/match/65492.html,202,7,34.15841584158416,L
+35,51,44,5,0,79.54,4,caught,2,v England,Perth,1992-02-22,https://stats.espncricinfo.com/ci/engine/match/65119.html,227,10,15.418502202643172,L
+11,19,19,1,0,57.89,4,caught,2,v Australia,Brisbane,1992-03-01,https://stats.espncricinfo.com/ci/engine/match/65129.html,234,10,4.700854700854701,L
+54,91,62,3,0,87.09,5,not out,1,v Pakistan,Sydney,1992-03-04,https://stats.espncricinfo.com/ci/engine/match/65133.html,216,7,25.0,W
+81,88,77,8,1,105.19,4,caught,1,v Zimbabwe,Hamilton,1992-03-07,https://stats.espncricinfo.com/ci/engine/match/65136.html,203,7,39.90147783251231,W
+4,11,11,0,0,36.36,4,caught,1,v West Indies,Wellington,1992-03-10,https://stats.espncricinfo.com/ci/engine/match/65141.html,197,10,2.030456852791878,L
+84,122,107,6,0,78.50,4,caught,1,v New Zealand,Dunedin,1992-03-12,https://stats.espncricinfo.com/ci/engine/match/65144.html,230,6,36.52173913043478,L
+14,14,14,1,0,100.00,4,caught,1,v South Africa,Adelaide,1992-03-15,https://stats.espncricinfo.com/ci/engine/match/65149.html,180,6,7.777777777777778,L
+39,92,56,7,0,69.64,4,caught,1,v Zimbabwe,Harare,1992-10-25,https://stats.espncricinfo.com/ci/engine/match/64395.html,239,10,16.317991631799163,W
+15,-,27,1,0,55.55,4,bowled,1,v South Africa,Cape Town,1992-12-07,https://stats.espncricinfo.com/ci/engine/match/64399.html,184,10,8.152173913043478,L
+10,-,36,0,0,27.77,4,caught,1,v South Africa,Gqeberha,1992-12-09,https://stats.espncricinfo.com/ci/engine/match/64400.html,147,10,6.802721088435375,L
+22,-,24,2,0,91.66,5,caught,2,v South Africa,Centurion,1992-12-11,https://stats.espncricinfo.com/ci/engine/match/64401.html,215,6,10.232558139534884,W
+21,-,44,1,0,47.72,5,caught,1,v South Africa,Johannesburg,1992-12-13,https://stats.espncricinfo.com/ci/engine/match/64404.html,161,9,13.043478260869565,L
+32,-,52,1,0,61.53,5,bowled,1,v South Africa,Bloemfontein,1992-12-15,https://stats.espncricinfo.com/ci/engine/match/64405.html,207,4,15.458937198067632,L
+23,-,39,0,0,58.97,5,caught,2,v South Africa,Durban,1992-12-17,https://stats.espncricinfo.com/ci/engine/match/64406.html,177,10,12.994350282485875,L
+21,-,38,3,0,55.26,3,caught,2,v South Africa,East London,1992-12-19,https://stats.espncricinfo.com/ci/engine/match/64407.html,204,5,10.294117647058822,W
+82,116,81,6,1,101.23,5,not out,1,v England,Jaipur,1993-01-18,https://stats.espncricinfo.com/ci/engine/match/64411.html,223,3,36.771300448430495,L
+1,9,5,0,0,20.00,5,lbw,2,v England,Chandigarh,1993-01-21,https://stats.espncricinfo.com/ci/engine/match/64412.html,201,5,0.4975124378109453,W
+3,7,6,0,0,50.00,4,caught,2,v England,Bengaluru,1993-02-26,https://stats.espncricinfo.com/ci/engine/match/64413.html,170,10,1.7647058823529411,L
+24,42,32,1,0,75.00,4,bowled,1,v England,Jamshedpur,1993-03-01,https://stats.espncricinfo.com/ci/engine/match/64414.html,137,7,17.51824817518248,L
+5,7,6,1,0,83.33,5,bowled,2,v England,Gwalior,1993-03-04,https://stats.espncricinfo.com/ci/engine/match/64416.html,257,7,1.9455252918287937,W
+34,42,30,2,1,113.33,5,caught,2,v England,Gwalior,1993-03-05,https://stats.espncricinfo.com/ci/engine/match/64417.html,267,6,12.734082397003746,W
+3,16,9,0,0,33.33,5,caught,1,v Zimbabwe,Faridabad,1993-03-19,https://stats.espncricinfo.com/ci/engine/match/64420.html,249,7,1.2048192771084338,W
+8,8,6,0,0,133.33,5,not out,2,v Zimbabwe,Guwahati,1993-03-22,https://stats.espncricinfo.com/ci/engine/match/64423.html,150,3,5.333333333333334,W
+21,-,39,1,0,53.84,5,caught,1,v Sri Lanka,Colombo (RPS),1993-07-25,https://stats.espncricinfo.com/ci/engine/match/64433.html,212,8,9.90566037735849,W
+15,-,30,0,0,50.00,5,run out,2,v Sri Lanka,Colombo (RPS),1993-08-12,https://stats.espncricinfo.com/ci/engine/match/64434.html,196,10,7.653061224489796,L
+25,-,39,1,0,64.10,5,caught,1,v Sri Lanka,Moratuwa,1993-08-14,https://stats.espncricinfo.com/ci/engine/match/64435.html,227,9,11.013215859030836,L
+26,-,30,4,0,86.66,5,not out,2,v Sri Lanka,Kanpur,1993-11-07,https://stats.espncricinfo.com/ci/engine/match/65961.html,205,3,12.682926829268293,W
+2,-,8,0,0,25.00,5,lbw,2,v West Indies,Ahmedabad,1993-11-16,https://stats.espncricinfo.com/ci/engine/match/65966.html,100,10,2.0,L
+24,22,16,1,1,150.00,6,caught,1,v Zimbabwe,Indore,1993-11-18,https://stats.espncricinfo.com/ci/engine/match/65967.html,248,5,9.67741935483871,L
+3,-,25,0,0,12.00,4,caught,1,v South Africa,Mohali,1993-11-22,https://stats.espncricinfo.com/ci/engine/match/65970.html,221,10,1.3574660633484164,W
+15,-,31,3,0,48.38,5,caught,1,v South Africa,Eden Gardens,1993-11-24,https://stats.espncricinfo.com/ci/engine/match/65971.html,195,10,7.6923076923076925,W
+28,-,43,2,0,65.11,5,not out,1,v West Indies,Eden Gardens,1993-11-27,https://stats.espncricinfo.com/ci/engine/match/65973.html,225,7,12.444444444444445,W
+1,10,5,0,0,20.00,5,caught,1,v Sri Lanka,Rajkot,1994-02-15,https://stats.espncricinfo.com/ci/engine/match/64445.html,246,5,0.40650406504065045,W
+11,25,18,0,0,61.11,5,not out,2,v Sri Lanka,Hyderabad (Deccan),1994-02-18,https://stats.espncricinfo.com/ci/engine/match/64447.html,227,3,4.845814977973569,W
+52,83,63,3,0,82.53,5,run out,1,v Sri Lanka,Jalandhar,1994-02-20,https://stats.espncricinfo.com/ci/engine/match/64449.html,213,9,24.413145539906104,L
+15,22,19,1,0,78.94,5,caught,2,v New Zealand,Napier,1994-03-25,https://stats.espncricinfo.com/ci/engine/match/64462.html,212,9,7.0754716981132075,L
+82,69,49,15,2,167.34,2,caught,2,v New Zealand,Auckland,1994-03-27,https://stats.espncricinfo.com/ci/engine/match/64463.html,143,3,57.34265734265735,W
+63,91,75,9,0,84.00,2,lbw,1,v New Zealand,Wellington,1994-03-30,https://stats.espncricinfo.com/ci/engine/match/64464.html,255,5,24.705882352941178,W
+40,34,26,8,0,153.84,2,bowled,1,v New Zealand,Christchurch,1994-04-02,https://stats.espncricinfo.com/ci/engine/match/64465.html,222,6,18.01801801801802,L
+63,125,77,7,1,81.81,2,caught,1,v U.A.E.,Sharjah,1994-04-13,https://stats.espncricinfo.com/ci/engine/match/65826.html,273,5,23.076923076923077,W
+73,96,64,10,3,114.06,2,caught,1,v Pakistan,Sharjah,1994-04-15,https://stats.espncricinfo.com/ci/engine/match/65828.html,219,10,33.33333333333333,L
+6,12,7,1,0,85.71,2,caught,2,v Australia,Sharjah,1994-04-19,https://stats.espncricinfo.com/ci/engine/match/65832.html,245,3,2.4489795918367347,W
+24,59,26,4,0,92.30,2,caught,2,v Pakistan,Sharjah,1994-04-22,https://stats.espncricinfo.com/ci/engine/match/65834.html,211,10,11.374407582938389,L
+11,-,16,2,0,68.75,2,not out,1,v Sri Lanka,Colombo (RPS),1994-09-04,https://stats.espncricinfo.com/ci/engine/match/65974.html,16,10,68.75,L
+6,13,5,0,0,120.00,2,caught,1,v Sri Lanka,Colombo (RPS),1994-09-05,https://stats.espncricinfo.com/ci/engine/match/65975.html,125,5,4.8,L
+110,186,130,8,2,84.61,2,bowled,1,v Australia,Colombo (RPS),1994-09-09,https://stats.espncricinfo.com/ci/engine/match/65977.html,246,8,44.71544715447154,W
+0,6,2,0,0,0.00,2,caught,2,v Sri Lanka,Colombo (SSC),1994-09-17,https://stats.espncricinfo.com/ci/engine/match/65980.html,99,4,0.0,W
+0,3,4,0,0,0.00,2,caught,2,v West Indies,Faridabad,1994-10-17,https://stats.espncricinfo.com/ci/engine/match/64475.html,177,10,0.0,L
+0,7,4,0,0,0.00,2,caught,2,v West Indies,Wankhede,1994-10-20,https://stats.espncricinfo.com/ci/engine/match/64476.html,135,4,0.0,W
+8,28,24,0,0,33.33,3,caught,2,v West Indies,Chennai,1994-10-23,https://stats.espncricinfo.com/ci/engine/match/65997.html,225,6,3.5555555555555554,W
+115,184,136,9,3,84.55,2,run out,2,v New Zealand,Vadodara,1994-10-28,https://stats.espncricinfo.com/ci/engine/match/65999.html,271,3,42.435424354243544,W
+34,53,47,7,0,72.34,2,bowled,2,v West Indies,Kanpur,1994-10-30,https://stats.espncricinfo.com/ci/engine/match/66000.html,211,5,16.113744075829384,L
+62,80,54,13,0,114.81,2,bowled,1,v New Zealand,Delhi,1994-11-03,https://stats.espncricinfo.com/ci/engine/match/66002.html,289,3,21.453287197231834,W
+66,101,68,8,0,97.05,2,caught,1,v West Indies,Eden Gardens,1994-11-05,https://stats.espncricinfo.com/ci/engine/match/66003.html,274,6,24.087591240875913,W
+54,130,64,5,0,84.37,2,caught,1,v West Indies,Visakhapatnam,1994-11-07,https://stats.espncricinfo.com/ci/engine/match/64480.html,260,4,20.76923076923077,W
+88,147,112,10,0,78.57,2,bowled,2,v West Indies,Cuttack,1994-11-09,https://stats.espncricinfo.com/ci/engine/match/64481.html,256,2,34.375,W
+105,180,134,10,0,78.35,2,caught,1,v West Indies,Jaipur,1994-11-11,https://stats.espncricinfo.com/ci/engine/match/64482.html,259,5,40.54054054054054,W
+13,30,15,3,0,86.66,2,caught,1,v New Zealand,Napier,1995-02-16,https://stats.espncricinfo.com/ci/engine/match/66019.html,160,10,8.125,L
+37,75,51,3,1,72.54,2,caught,2,v South Africa,Hamilton,1995-02-18,https://stats.espncricinfo.com/ci/engine/match/66020.html,209,9,17.703349282296653,L
+47,65,40,7,0,117.50,2,caught,2,v Australia,Dunedin,1995-02-22,https://stats.espncricinfo.com/ci/engine/match/66022.html,252,5,18.650793650793652,W
+48,37,30,9,1,160.00,2,bowled,2,v Bangladesh,Sharjah,1995-04-05,https://stats.espncricinfo.com/ci/engine/match/65685.html,164,1,29.268292682926827,W
+4,13,9,1,0,44.44,2,caught,2,v Pakistan,Sharjah,1995-04-07,https://stats.espncricinfo.com/ci/engine/match/65687.html,169,10,2.366863905325444,L
+112,137,107,15,1,104.67,2,not out,2,v Sri Lanka,Sharjah,1995-04-09,https://stats.espncricinfo.com/ci/engine/match/65689.html,206,2,54.36893203883495,W
+41,51,41,5,0,100.00,2,caught,2,v Sri Lanka,Sharjah,1995-04-14,https://stats.espncricinfo.com/ci/engine/match/65691.html,233,2,17.59656652360515,W
+30,30,20,5,0,150.00,2,caught,1,v New Zealand,Jamshedpur,1995-11-15,https://stats.espncricinfo.com/ci/engine/match/64502.html,236,10,12.711864406779661,L
+39,79,51,4,0,76.47,2,caught,2,v New Zealand,Amritsar,1995-11-18,https://stats.espncricinfo.com/ci/engine/match/64503.html,146,4,26.71232876712329,W
+7,27,11,1,0,63.63,2,caught,2,v New Zealand,Pune,1995-11-24,https://stats.espncricinfo.com/ci/engine/match/64504.html,236,5,2.9661016949152543,W
+65,96,59,9,1,110.16,2,run out,2,v New Zealand,Nagpur,1995-11-26,https://stats.espncricinfo.com/ci/engine/match/64505.html,249,10,26.104417670682732,L
+1,14,4,0,0,25.00,2,bowled,2,v New Zealand,Brabourne,1995-11-29,https://stats.espncricinfo.com/ci/engine/match/64506.html,128,4,0.78125,W
+127,175,138,15,1,92.02,2,not out,2,v Kenya,Cuttack,1996-02-18,https://stats.espncricinfo.com/ci/engine/match/65161.html,203,3,62.5615763546798,W
+70,137,91,8,0,76.92,2,run out,2,v West Indies,Gwalior,1996-02-21,https://stats.espncricinfo.com/ci/engine/match/65165.html,174,5,40.229885057471265,W
+90,124,84,14,1,107.14,2,stumped,2,v Australia,Wankhede,1996-02-27,https://stats.espncricinfo.com/ci/engine/match/65174.html,242,10,37.1900826446281,L
+137,198,137,8,5,100.00,2,run out,1,v Sri Lanka,Delhi,1996-03-02,https://stats.espncricinfo.com/ci/engine/match/65179.html,271,3,50.55350553505535,L
+3,10,12,0,0,25.00,1,bowled,1,v Zimbabwe,Kanpur,1996-03-06,https://stats.espncricinfo.com/ci/engine/match/65184.html,247,5,1.214574898785425,W
+31,103,59,3,0,52.54,2,bowled,1,v Pakistan,Bengaluru,1996-03-09,https://stats.espncricinfo.com/ci/engine/match/65187.html,287,8,10.801393728222997,W
+65,96,88,9,0,73.86,1,stumped,2,v Sri Lanka,Eden Gardens,1996-03-13,https://stats.espncricinfo.com/ci/engine/match/65190.html,120,8,54.166666666666664,L
+28,-,31,3,1,90.32,1,caught,1,v Sri Lanka,Singapore,1996-04-03,https://stats.espncricinfo.com/ci/engine/match/66027.html,199,10,14.07035175879397,W
+100,-,111,9,1,90.09,2,stumped,1,v Pakistan,Singapore,1996-04-05,https://stats.espncricinfo.com/ci/engine/match/66028.html,226,8,44.24778761061947,L
+1,-,5,0,0,20.00,2,caught,2,v Pakistan,Sharjah,1996-04-12,https://stats.espncricinfo.com/ci/engine/match/65754.html,233,10,0.4291845493562232,L
+2,23,15,0,0,13.33,2,caught,2,v South Africa,Sharjah,1996-04-14,https://stats.espncricinfo.com/ci/engine/match/65756.html,208,8,0.9615384615384616,L
+118,-,140,8,2,84.28,2,caught,1,v Pakistan,Sharjah,1996-04-15,https://stats.espncricinfo.com/ci/engine/match/65757.html,305,5,38.68852459016394,W
+17,32,26,2,0,65.38,2,caught,1,v South Africa,Sharjah,1996-04-17,https://stats.espncricinfo.com/ci/engine/match/65759.html,215,8,7.906976744186046,L
+57,104,71,6,0,80.28,2,run out,2,v South Africa,Sharjah,1996-04-19,https://stats.espncricinfo.com/ci/engine/match/65760.html,249,9,22.89156626506024,L
+30,30,19,5,1,157.89,2,lbw,2,v England,The Oval,1996-05-23,https://stats.espncricinfo.com/ci/engine/match/65017.html,96,5,31.25,L
+6,26,19,0,0,31.57,2,run out,1,v England,Leeds,1996-05-25,https://stats.espncricinfo.com/ci/engine/match/65018.html,158,10,3.79746835443038,L
+1,18,11,0,0,9.09,2,caught,1,v England,Manchester,1996-05-26,https://stats.espncricinfo.com/ci/engine/match/65019.html,236,4,0.423728813559322,L
+110,-,138,5,1,79.71,2,run out,1,v Sri Lanka,Colombo (RPS),1996-08-28,https://stats.espncricinfo.com/ci/engine/match/65982.html,226,5,48.67256637168141,L
+40,60,46,8,0,86.95,2,caught,2,v Zimbabwe,Colombo (SSC),1996-09-01,https://stats.espncricinfo.com/ci/engine/match/65984.html,229,3,17.46724890829694,W
+7,24,11,1,0,63.63,2,caught,1,v Australia,Colombo (SSC),1996-09-06,https://stats.espncricinfo.com/ci/engine/match/65986.html,201,10,3.482587064676617,L
+89,-,89,9,3,100.00,2,not out,2,v Pakistan,Toronto,1996-09-16,https://stats.espncricinfo.com/ci/engine/match/66030.html,173,2,51.445086705202314,W
+20,-,23,3,0,86.95,2,caught,1,v Pakistan,Toronto,1996-09-17,https://stats.espncricinfo.com/ci/engine/match/66031.html,264,6,7.575757575757576,L
+2,-,13,0,0,15.38,2,caught,1,v Pakistan,Toronto,1996-09-18,https://stats.espncricinfo.com/ci/engine/match/66032.html,191,10,1.0471204188481675,W
+3,-,9,0,0,33.33,2,caught,2,v Pakistan,Toronto,1996-09-21,https://stats.espncricinfo.com/ci/engine/match/66033.html,161,10,1.8633540372670807,L
+23,-,44,0,1,52.27,2,run out,2,v Pakistan,Toronto,1996-09-23,https://stats.espncricinfo.com/ci/engine/match/66034.html,161,10,14.285714285714285,L
+11,20,8,2,0,137.50,2,caught,2,v South Africa,Hyderabad (Deccan),1996-10-17,https://stats.espncricinfo.com/ci/engine/match/66059.html,214,10,5.14018691588785,L
+88,189,111,9,0,79.27,2,lbw,2,v Australia,Bengaluru,1996-10-21,https://stats.espncricinfo.com/ci/engine/match/66061.html,216,8,40.74074074074074,W
+64,133,93,3,0,68.81,2,caught,2,v South Africa,Jaipur,1996-10-23,https://stats.espncricinfo.com/ci/engine/match/66062.html,222,7,28.82882882882883,L
+28,55,38,5,0,73.68,1,lbw,1,v South Africa,Rajkot,1996-10-29,https://stats.espncricinfo.com/ci/engine/match/66064.html,185,10,15.135135135135137,L
+62,-,61,8,0,101.63,1,caught,1,v Australia,Mohali,1996-11-03,https://stats.espncricinfo.com/ci/engine/match/66066.html,289,6,21.453287197231834,W
+67,128,88,6,0,76.13,2,caught,1,v South Africa,Wankhede,1996-11-06,https://stats.espncricinfo.com/ci/engine/match/66067.html,220,7,30.454545454545457,W
+114,157,126,14,0,90.47,1,stumped,1,v South Africa,Wankhede,1996-12-14,https://stats.espncricinfo.com/ci/engine/match/64533.html,267,6,42.69662921348314,W
+0,12,4,0,0,0.00,2,bowled,2,v South Africa,Bloemfontein,1997-01-23,https://stats.espncricinfo.com/ci/engine/match/66068.html,231,10,0.0,L
+6,8,8,1,0,75.00,1,caught,2,v Zimbabwe,Paarl,1997-01-27,https://stats.espncricinfo.com/ci/engine/match/66070.html,236,10,2.5423728813559325,L
+1,14,14,0,0,7.14,4,bowled,1,v South Africa,Gqeberha,1997-02-02,https://stats.espncricinfo.com/ci/engine/match/66073.html,179,9,0.5586592178770949,L
+14,34,24,2,0,58.33,3,caught,1,v South Africa,East London,1997-02-04,https://stats.espncricinfo.com/ci/engine/match/66074.html,232,5,6.0344827586206895,L
+41,81,56,1,1,73.21,4,caught,1,v Zimbabwe,Centurion,1997-02-07,https://stats.espncricinfo.com/ci/engine/match/66075.html,216,10,18.98148148148148,L
+104,121,97,8,1,107.21,2,caught,2,v Zimbabwe,Benoni,1997-02-09,https://stats.espncricinfo.com/ci/engine/match/66076.html,241,4,43.15352697095436,W
+32,55,27,6,0,118.51,2,caught,1,v South Africa,Durban,1997-02-12,https://stats.espncricinfo.com/ci/engine/match/66077.html,191,9,16.75392670157068,L
+45,48,33,7,1,136.36,2,caught,2,v South Africa,Durban,1997-02-13,https://stats.espncricinfo.com/ci/engine/match/66078.html,234,10,19.230769230769234,L
+13,18,15,0,1,86.66,2,caught,1,v Zimbabwe,Bulawayo,1997-02-15,https://stats.espncricinfo.com/ci/engine/match/64537.html,168,10,7.738095238095238,L
+44,57,43,10,0,102.32,1,caught,1,v West Indies,Port of Spain,1997-04-26,https://stats.espncricinfo.com/ci/engine/match/64552.html,179,10,24.581005586592177,L
+65,111,70,7,0,92.85,1,not out,2,v West Indies,Port of Spain,1997-04-27,https://stats.espncricinfo.com/ci/engine/match/64553.html,116,10,56.03448275862068,W
+9,22,15,1,0,60.00,1,bowled,2,v West Indies,Kingstown,1997-04-30,https://stats.espncricinfo.com/ci/engine/match/64554.html,231,10,3.896103896103896,L
+1,17,11,0,0,9.09,1,caught,1,v West Indies,Bridgetown,1997-05-03,https://stats.espncricinfo.com/ci/engine/match/64555.html,199,7,0.5025125628140703,L
+117,188,137,13,2,85.40,2,bowled,2,v New Zealand,Bengaluru,1997-05-14,https://stats.espncricinfo.com/ci/engine/match/66110.html,221,2,52.94117647058824,W
+2,19,4,0,0,50.00,2,caught,1,v Sri Lanka,Wankhede,1997-05-17,https://stats.espncricinfo.com/ci/engine/match/66111.html,225,7,0.8888888888888888,L
+4,10,7,1,0,57.14,1,caught,2,v Pakistan,Chennai,1997-05-21,https://stats.espncricinfo.com/ci/engine/match/66113.html,292,10,1.36986301369863,L
+21,49,28,3,0,75.00,1,bowled,1,v Sri Lanka,Colombo (RPS),1997-07-18,https://stats.espncricinfo.com/ci/engine/match/65694.html,227,6,9.251101321585903,L
+28,36,21,5,0,133.33,2,bowled,2,v Bangladesh,Colombo (SSC),1997-07-24,https://stats.espncricinfo.com/ci/engine/match/65697.html,132,1,21.21212121212121,W
+53,109,67,2,0,79.10,4,caught,1,v Sri Lanka,Colombo (RPS),1997-07-26,https://stats.espncricinfo.com/ci/engine/match/65698.html,239,7,22.17573221757322,L
+27,55,28,3,0,96.42,1,caught,2,v Sri Lanka,Colombo (RPS),1997-08-17,https://stats.espncricinfo.com/ci/engine/match/64557.html,300,7,9.0,L
+6,4,6,1,0,100.00,1,lbw,1,v Sri Lanka,Colombo (RPS),1997-08-20,https://stats.espncricinfo.com/ci/engine/match/64558.html,238,10,2.5210084033613445,L
+27,47,31,4,0,87.09,2,caught,1,v Sri Lanka,Colombo (SSC),1997-08-23,https://stats.espncricinfo.com/ci/engine/match/64559.html,291,9,9.278350515463918,L
+39,41,32,3,2,121.87,1,caught,2,v Sri Lanka,Colombo (SSC),1997-08-24,https://stats.espncricinfo.com/ci/engine/match/64560.html,255,8,15.294117647058824,L
+17,82,54,2,0,31.48,1,caught,1,v Pakistan,Toronto,1997-09-13,https://stats.espncricinfo.com/ci/engine/match/66035.html,208,10,8.173076923076923,W
+25,66,45,3,0,55.55,4,not out,2,v Pakistan,Toronto,1997-09-14,https://stats.espncricinfo.com/ci/engine/match/66036.html,117,3,21.367521367521366,W
+0,26,10,0,0,0.00,4,caught,1,v Pakistan,Toronto,1997-09-18,https://stats.espncricinfo.com/ci/engine/match/66038.html,182,6,0.0,W
+6,10,7,1,0,85.71,1,caught,2,v Pakistan,Toronto,1997-09-20,https://stats.espncricinfo.com/ci/engine/match/66039.html,162,3,3.7037037037037033,W
+51,106,64,4,1,79.68,1,lbw,1,v Pakistan,Toronto,1997-09-21,https://stats.espncricinfo.com/ci/engine/match/66040.html,250,5,20.4,L
+2,17,11,0,0,18.18,1,bowled,1,v Pakistan,Hyderabad (Sind),1997-09-28,https://stats.espncricinfo.com/ci/engine/match/64561.html,170,10,1.1764705882352942,L
+21,24,18,2,1,116.66,1,caught,2,v Pakistan,Karachi,1997-09-30,https://stats.espncricinfo.com/ci/engine/match/64562.html,266,6,7.894736842105263,W
+7,19,11,1,0,63.63,1,caught,1,v Pakistan,Lahore,1997-10-02,https://stats.espncricinfo.com/ci/engine/match/64564.html,216,10,3.2407407407407405,L
+91,146,87,4,2,104.59,4,stumped,2,v England,Sharjah,1997-12-11,https://stats.espncricinfo.com/ci/engine/match/65873.html,243,10,37.4485596707819,L
+3,4,4,0,0,75.00,5,caught,1,v Pakistan,Sharjah,1997-12-14,https://stats.espncricinfo.com/ci/engine/match/65876.html,239,7,1.2552301255230125,L
+1,3,2,0,0,50.00,4,run out,2,v West Indies,Sharjah,1997-12-16,https://stats.espncricinfo.com/ci/engine/match/65878.html,188,10,0.5319148936170213,L
+82,110,86,6,0,95.34,4,not out,2,v Sri Lanka,Guwahati,1997-12-22,https://stats.espncricinfo.com/ci/engine/match/64567.html,173,3,47.398843930635834,W
+6,23,13,0,0,46.15,3,caught,1,v Sri Lanka,Margao,1997-12-28,https://stats.espncricinfo.com/ci/engine/match/64569.html,228,6,2.631578947368421,L
+54,104,76,4,0,71.05,4,caught,2,v Bangladesh,Dhaka,1998-01-10,https://stats.espncricinfo.com/ci/engine/match/66131.html,191,6,28.272251308900525,W
+67,-,44,11,0,152.27,2,stumped,1,v Pakistan,Dhaka,1998-01-11,https://stats.espncricinfo.com/ci/engine/match/66132.html,245,7,27.346938775510203,W
+95,104,78,6,5,121.79,2,bowled,2,v Pakistan,Dhaka,1998-01-14,https://stats.espncricinfo.com/ci/engine/match/66134.html,213,2,44.60093896713615,W
+1,14,6,0,0,16.66,2,bowled,1,v Pakistan,Dhaka,1998-01-16,https://stats.espncricinfo.com/ci/engine/match/66135.html,189,10,0.5291005291005291,L
+41,-,26,7,1,157.69,2,caught,2,v Pakistan,Dhaka,1998-01-18,https://stats.espncricinfo.com/ci/engine/match/66136.html,316,7,12.974683544303797,W
+8,21,11,1,0,72.72,2,caught,1,v Australia,Kochi,1998-04-01,https://stats.espncricinfo.com/ci/engine/match/66137.html,309,5,2.5889967637540456,W
+5,44,17,0,0,29.41,2,run out,1,v Zimbabwe,Vadodara,1998-04-05,https://stats.espncricinfo.com/ci/engine/match/66139.html,274,5,1.824817518248175,W
+100,132,89,5,7,112.35,2,caught,2,v Australia,Kanpur,1998-04-07,https://stats.espncricinfo.com/ci/engine/match/66140.html,223,4,44.843049327354265,W
+1,18,2,0,0,50.00,2,caught,1,v Zimbabwe,Cuttack,1998-04-09,https://stats.espncricinfo.com/ci/engine/match/66141.html,301,3,0.33222591362126247,W
+15,45,24,2,0,62.50,2,caught,1,v Australia,Delhi,1998-04-14,https://stats.espncricinfo.com/ci/engine/match/66143.html,227,10,6.607929515418502,L
+40,62,41,5,1,97.56,1,caught,1,v New Zealand,Sharjah,1998-04-17,https://stats.espncricinfo.com/ci/engine/match/65768.html,220,9,18.181818181818183,W
+80,136,72,9,0,111.11,2,caught,2,v Australia,Sharjah,1998-04-19,https://stats.espncricinfo.com/ci/engine/match/65770.html,206,10,38.83495145631068,L
+38,93,58,2,0,65.51,1,run out,1,v New Zealand,Sharjah,1998-04-20,https://stats.espncricinfo.com/ci/engine/match/65771.html,181,10,20.994475138121548,L
+143,187,131,9,5,109.16,2,caught,2,v Australia,Sharjah,1998-04-22,https://stats.espncricinfo.com/ci/engine/match/65773.html,250,5,57.199999999999996,L
+134,195,131,12,3,102.29,2,lbw,2,v Australia,Sharjah,1998-04-24,https://stats.espncricinfo.com/ci/engine/match/65774.html,275,4,48.72727272727273,W
+33,48,29,6,0,113.79,2,caught,2,v Bangladesh,Wankhede,1998-05-25,https://stats.espncricinfo.com/ci/engine/match/66148.html,116,5,28.448275862068968,W
+18,33,25,2,0,72.00,2,caught,2,v Kenya,Gwalior,1998-05-28,https://stats.espncricinfo.com/ci/engine/match/66149.html,196,10,9.183673469387756,L
+100,156,103,13,0,97.08,2,not out,2,v Kenya,Eden Gardens,1998-05-31,https://stats.espncricinfo.com/ci/engine/match/66150.html,197,1,50.76142131979695,W
+65,79,50,9,0,130.00,2,caught,2,v Sri Lanka,Colombo (RPS),1998-06-19,https://stats.espncricinfo.com/ci/engine/match/66151.html,246,2,26.422764227642276,W
+53,43,36,3,3,147.22,2,caught,2,v New Zealand,Colombo (RPS),1998-06-23,https://stats.espncricinfo.com/ci/engine/match/66153.html,131,2,40.458015267175576,L
+17,28,16,4,0,106.25,2,caught,2,v Sri Lanka,Colombo (SSC),1998-07-01,https://stats.espncricinfo.com/ci/engine/match/66154.html,163,10,10.429447852760736,L
+128,182,131,8,2,97.70,2,stumped,1,v Sri Lanka,Colombo (RPS),1998-07-07,https://stats.espncricinfo.com/ci/engine/match/66157.html,307,6,41.69381107491857,W
+77,157,109,9,0,70.64,2,caught,1,v Pakistan,Toronto,1998-09-20,https://stats.espncricinfo.com/ci/engine/match/66045.html,256,9,30.078125,L
+127,155,130,13,1,97.69,2,not out,2,v Zimbabwe,Bulawayo,1998-09-26,https://stats.espncricinfo.com/ci/engine/match/64589.html,216,2,58.79629629629629,W
+29,33,21,4,1,138.09,1,caught,2,v Zimbabwe,Bulawayo,1998-09-27,https://stats.espncricinfo.com/ci/engine/match/64590.html,236,2,12.288135593220339,W
+2,7,6,0,0,33.33,2,caught,2,v Zimbabwe,Harare,1998-09-30,https://stats.espncricinfo.com/ci/engine/match/64591.html,222,10,0.9009009009009009,L
+141,191,128,13,3,110.15,2,run out,1,v Australia,Dhaka,1998-10-28,https://stats.espncricinfo.com/ci/engine/match/66165.html,307,8,45.928338762214985,W
+8,20,14,1,0,57.14,2,caught,1,v West Indies,Dhaka,1998-10-31,https://stats.espncricinfo.com/ci/engine/match/66168.html,242,6,3.3057851239669422,L
+3,15,6,0,0,50.00,2,caught,2,v Sri Lanka,Sharjah,1998-11-06,https://stats.espncricinfo.com/ci/engine/match/65880.html,248,7,1.2096774193548387,W
+118,173,112,14,2,105.35,2,not out,2,v Zimbabwe,Sharjah,1998-11-08,https://stats.espncricinfo.com/ci/engine/match/65882.html,197,3,59.89847715736041,W
+18,57,28,2,0,64.28,1,caught,1,v Sri Lanka,Sharjah,1998-11-09,https://stats.espncricinfo.com/ci/engine/match/65883.html,179,10,10.05586592178771,W
+11,33,12,2,0,91.66,2,caught,2,v Zimbabwe,Sharjah,1998-11-11,https://stats.espncricinfo.com/ci/engine/match/65885.html,192,10,5.729166666666666,L
+124,140,92,12,6,134.78,2,not out,2,v Zimbabwe,Sharjah,1998-11-13,https://stats.espncricinfo.com/ci/engine/match/65886.html,197,10,62.944162436548226,W
+0,10,5,0,0,0.00,2,caught,1,v New Zealand,Taupo,1999-01-09,https://stats.espncricinfo.com/ci/engine/match/64598.html,257,5,0.0,L
+23,37,19,4,0,121.05,2,caught,2,v New Zealand,Napier,1999-01-12,https://stats.espncricinfo.com/ci/engine/match/64599.html,214,8,10.74766355140187,W
+45,68,42,2,2,107.14,2,stumped,1,v New Zealand,Wellington,1999-01-14,https://stats.espncricinfo.com/ci/engine/match/64600.html,208,4,21.634615384615387,L
+5,27,12,1,0,41.66,1,lbw,2,v New Zealand,Auckland,1999-01-16,https://stats.espncricinfo.com/ci/engine/match/64601.html,208,5,2.403846153846154,W
+28,71,46,5,0,60.86,2,caught,1,v South Africa,Hove,1999-05-15,https://stats.espncricinfo.com/ci/engine/match/65194.html,253,5,11.067193675889328,L
+140,114,101,16,3,138.61,4,not out,1,v Kenya,Bristol,1999-05-23,https://stats.espncricinfo.com/ci/engine/match/65207.html,329,2,42.5531914893617,W
+2,10,3,0,0,66.66,4,bowled,1,v Sri Lanka,Taunton,1999-05-26,https://stats.espncricinfo.com/ci/engine/match/65213.html,373,6,0.5361930294906166,W
+22,49,40,2,0,55.00,4,caught,1,v England,Birmingham,1999-05-29,https://stats.espncricinfo.com/ci/engine/match/65217.html,232,8,9.482758620689655,W
+0,5,4,0,0,0.00,2,caught,2,v Australia,The Oval,1999-06-04,https://stats.espncricinfo.com/ci/engine/match/65223.html,205,10,0.0,L
+45,92,65,5,0,69.23,1,caught,1,v Pakistan,Manchester,1999-06-08,https://stats.espncricinfo.com/ci/engine/match/65226.html,227,6,19.823788546255507,W
+16,26,22,2,0,72.72,1,bowled,1,v New Zealand,Nottingham,1999-06-12,https://stats.espncricinfo.com/ci/engine/match/65230.html,251,6,6.374501992031872,L
+14,52,33,0,0,42.42,2,caught,1,v Australia,Galle,1999-08-23,https://stats.espncricinfo.com/ci/engine/match/66226.html,151,7,9.271523178807946,L
+37,105,58,1,0,63.79,2,run out,1,v Sri Lanka,Colombo (RPS),1999-08-25,https://stats.espncricinfo.com/ci/engine/match/66227.html,205,8,18.048780487804876,L
+120,191,141,11,2,85.10,1,caught,1,v Sri Lanka,Colombo (SSC),1999-08-29,https://stats.espncricinfo.com/ci/engine/match/66230.html,296,4,40.54054054054054,W
+85,114,72,7,3,118.05,2,caught,1,v Zimbabwe,Singapore,1999-09-04,https://stats.espncricinfo.com/ci/engine/match/66233.html,245,6,34.69387755102041,W
+40,97,65,6,0,61.53,1,caught,1,v West Indies,Singapore,1999-09-07,https://stats.espncricinfo.com/ci/engine/match/66235.html,149,6,26.845637583892618,L
+0,-,6,0,0,0.00,1,caught,1,v West Indies,Singapore,1999-09-08,https://stats.espncricinfo.com/ci/engine/match/66236.html,254,6,0.0,L
+32,61,31,2,1,103.22,2,caught,2,v New Zealand,Rajkot,1999-11-05,https://stats.espncricinfo.com/ci/engine/match/64630.html,306,10,10.457516339869281,L
+186,221,150,20,3,124.00,2,not out,1,v New Zealand,Hyderabad (Deccan),1999-11-08,https://stats.espncricinfo.com/ci/engine/match/64631.html,376,2,49.46808510638298,W
+1,41,23,0,0,4.34,2,caught,1,v New Zealand,Gwalior,1999-11-11,https://stats.espncricinfo.com/ci/engine/match/64632.html,261,5,0.38314176245210724,W
+2,21,10,0,0,20.00,2,caught,2,v New Zealand,Guwahati,1999-11-14,https://stats.espncricinfo.com/ci/engine/match/64633.html,188,10,1.0638297872340425,L
+0,2,3,0,0,0.00,4,caught,2,v New Zealand,Delhi,1999-11-17,https://stats.espncricinfo.com/ci/engine/match/64634.html,181,3,0.0,W
+13,28,26,2,0,50.00,4,bowled,1,v Pakistan,Brisbane,2000-01-10,https://stats.espncricinfo.com/ci/engine/match/65588.html,195,10,6.666666666666667,L
+12,25,11,2,0,109.09,4,run out,2,v Australia,Melbourne,2000-01-12,https://stats.espncricinfo.com/ci/engine/match/65589.html,241,6,4.979253112033195,L
+1,13,11,0,0,9.09,2,caught,1,v Australia,Sydney,2000-01-14,https://stats.espncricinfo.com/ci/engine/match/65590.html,100,10,1.0,L
+93,157,103,10,0,90.29,1,bowled,2,v Pakistan,Hobart,2000-01-21,https://stats.espncricinfo.com/ci/engine/match/65593.html,230,10,40.43478260869565,L
+41,69,46,5,0,89.13,1,caught,1,v Pakistan,Adelaide,2000-01-25,https://stats.espncricinfo.com/ci/engine/match/65595.html,267,6,15.355805243445692,W
+18,45,28,2,0,64.28,1,caught,2,v Australia,Adelaide,2000-01-26,https://stats.espncricinfo.com/ci/engine/match/65596.html,177,10,10.16949152542373,L
+17,19,14,4,0,121.42,1,caught,2,v Pakistan,Perth,2000-01-28,https://stats.espncricinfo.com/ci/engine/match/65597.html,157,10,10.828025477707007,L
+3,23,21,0,0,14.28,2,bowled,1,v Australia,Perth,2000-01-30,https://stats.espncricinfo.com/ci/engine/match/65598.html,226,6,1.3274336283185841,L
+26,66,25,4,0,104.00,2,caught,2,v South Africa,Kochi,2000-03-09,https://stats.espncricinfo.com/ci/engine/match/64657.html,302,7,8.609271523178808,W
+21,39,31,3,0,67.74,2,caught,2,v South Africa,Jamshedpur,2000-03-12,https://stats.espncricinfo.com/ci/engine/match/64658.html,203,4,10.344827586206897,W
+12,48,28,1,0,42.85,2,lbw,1,v South Africa,Faridabad,2000-03-15,https://stats.espncricinfo.com/ci/engine/match/64659.html,248,8,4.838709677419355,L
+122,195,138,12,0,88.40,2,caught,2,v South Africa,Vadodara,2000-03-17,https://stats.espncricinfo.com/ci/engine/match/64660.html,283,6,43.109540636042404,W
+93,119,89,7,4,104.49,2,caught,2,v South Africa,Nagpur,2000-03-19,https://stats.espncricinfo.com/ci/engine/match/64661.html,310,10,30.0,L
+5,10,8,0,0,62.50,2,bowled,1,v South Africa,Sharjah,2000-03-22,https://stats.espncricinfo.com/ci/engine/match/65782.html,164,10,3.048780487804878,L
+11,54,28,1,0,39.28,2,lbw,2,v Pakistan,Sharjah,2000-03-23,https://stats.espncricinfo.com/ci/engine/match/65783.html,149,5,7.38255033557047,W
+10,23,18,1,0,55.55,2,bowled,2,v Pakistan,Sharjah,2000-03-26,https://stats.espncricinfo.com/ci/engine/match/65785.html,174,9,5.747126436781609,L
+39,117,68,3,0,57.35,1,run out,1,v South Africa,Sharjah,2000-03-27,https://stats.espncricinfo.com/ci/engine/match/65786.html,164,10,23.78048780487805,L
+36,55,25,4,2,144.00,2,caught,2,v Bangladesh,Dhaka,2000-05-30,https://stats.espncricinfo.com/ci/engine/match/65700.html,252,2,14.285714285714285,W
+93,174,95,10,0,97.89,2,caught,2,v Sri Lanka,Dhaka,2000-06-01,https://stats.espncricinfo.com/ci/engine/match/65701.html,205,10,45.36585365853659,L
+25,74,30,4,0,83.33,2,lbw,2,v Pakistan,Dhaka,2000-06-03,https://stats.espncricinfo.com/ci/engine/match/65703.html,251,10,9.9601593625498,L
+25,55,35,4,0,71.42,2,lbw,2,v Kenya,Nairobi (Gym),2000-10-03,https://stats.espncricinfo.com/ci/engine/match/66170.html,209,2,11.961722488038278,W
+38,58,37,3,3,102.70,2,caught,1,v Australia,Nairobi (Gym),2000-10-07,https://stats.espncricinfo.com/ci/engine/match/66173.html,265,9,14.339622641509434,W
+39,61,50,4,0,78.00,2,caught,1,v South Africa,Nairobi (Gym),2000-10-13,https://stats.espncricinfo.com/ci/engine/match/66178.html,295,6,13.220338983050848,W
+69,103,83,10,1,83.13,2,run out,1,v New Zealand,Nairobi (Gym),2000-10-15,https://stats.espncricinfo.com/ci/engine/match/66179.html,264,6,26.136363636363637,L
+101,-,140,3,1,72.14,2,run out,1,v Sri Lanka,Sharjah,2000-10-20,https://stats.espncricinfo.com/ci/engine/match/65894.html,224,8,45.089285714285715,L
+8,-,15,1,0,53.33,2,caught,1,v Zimbabwe,Sharjah,2000-10-22,https://stats.espncricinfo.com/ci/engine/match/65896.html,265,8,3.018867924528302,W
+4,-,10,0,0,40.00,1,caught,2,v Zimbabwe,Sharjah,2000-10-26,https://stats.espncricinfo.com/ci/engine/match/65898.html,219,7,1.82648401826484,W
+61,-,54,7,0,112.96,2,caught,2,v Sri Lanka,Sharjah,2000-10-27,https://stats.espncricinfo.com/ci/engine/match/65899.html,226,10,26.991150442477874,L
+5,-,11,0,0,45.45,2,caught,2,v Sri Lanka,Sharjah,2000-10-29,https://stats.espncricinfo.com/ci/engine/match/65900.html,54,10,9.25925925925926,L
+44,90,49,7,0,89.79,2,caught,2,v Zimbabwe,Cuttack,2000-12-02,https://stats.espncricinfo.com/ci/engine/match/64680.html,255,7,17.254901960784313,W
+8,27,20,0,0,40.00,1,caught,1,v Zimbabwe,Ahmedabad,2000-12-05,https://stats.espncricinfo.com/ci/engine/match/64681.html,306,5,2.6143790849673203,W
+146,200,153,15,2,95.42,2,caught,1,v Zimbabwe,Jodhpur,2000-12-08,https://stats.espncricinfo.com/ci/engine/match/64682.html,283,8,51.590106007067135,L
+62,113,86,9,0,72.09,2,lbw,2,v Zimbabwe,Kanpur,2000-12-11,https://stats.espncricinfo.com/ci/engine/match/64683.html,166,1,37.34939759036144,W
+27,38,38,5,0,71.05,2,bowled,1,v Zimbabwe,Rajkot,2000-12-14,https://stats.espncricinfo.com/ci/engine/match/64684.html,301,6,8.970099667774086,W
+35,47,26,6,1,134.61,2,run out,1,v Australia,Bengaluru,2001-03-25,https://stats.espncricinfo.com/ci/engine/match/64706.html,315,10,11.11111111111111,W
+32,35,29,6,1,110.34,2,caught,1,v Australia,Pune,2001-03-28,https://stats.espncricinfo.com/ci/engine/match/64708.html,248,9,12.903225806451612,L
+139,197,125,19,0,111.20,2,caught,1,v Australia,Indore,2001-03-31,https://stats.espncricinfo.com/ci/engine/match/64709.html,299,8,46.48829431438127,W
+62,68,38,11,0,163.15,2,caught,2,v Australia,Visakhapatnam,2001-04-03,https://stats.espncricinfo.com/ci/engine/match/64710.html,245,10,25.30612244897959,L
+12,17,15,2,0,80.00,2,caught,1,v Australia,Margao,2001-04-06,https://stats.espncricinfo.com/ci/engine/match/64711.html,265,6,4.528301886792453,L
+70,129,70,13,0,100.00,2,not out,2,v Zimbabwe,Harare,2001-06-24,https://stats.espncricinfo.com/ci/engine/match/66313.html,137,1,51.09489051094891,W
+9,42,27,0,0,33.33,2,caught,2,v Zimbabwe,Bulawayo,2001-06-27,https://stats.espncricinfo.com/ci/engine/match/66314.html,237,6,3.79746835443038,W
+81,191,110,8,0,73.63,2,not out,2,v West Indies,Bulawayo,2001-06-30,https://stats.espncricinfo.com/ci/engine/match/66315.html,170,4,47.647058823529406,W
+122,210,131,12,1,93.12,2,not out,2,v West Indies,Harare,2001-07-04,https://stats.espncricinfo.com/ci/engine/match/66317.html,230,4,53.04347826086957,W
+0,10,4,0,0,0.00,2,caught,2,v West Indies,Harare,2001-07-07,https://stats.espncricinfo.com/ci/engine/match/66318.html,274,8,0.0,L
+101,209,129,9,0,78.29,2,caught,1,v South Africa,Johannesburg,2001-10-05,https://stats.espncricinfo.com/ci/engine/match/66098.html,279,5,36.200716845878134,L
+38,82,57,5,0,66.66,2,caught,1,v South Africa,Centurion,2001-10-10,https://stats.espncricinfo.com/ci/engine/match/66100.html,233,10,16.30901287553648,W
+3,24,20,0,0,15.00,2,bowled,2,v Kenya,Gqeberha,2001-10-17,https://stats.espncricinfo.com/ci/engine/match/66103.html,176,10,1.7045454545454544,L
+37,68,35,5,0,105.71,2,bowled,2,v South Africa,East London,2001-10-19,https://stats.espncricinfo.com/ci/engine/match/66104.html,236,10,15.677966101694915,L
+146,186,132,17,0,110.60,2,caught,1,v Kenya,Paarl,2001-10-24,https://stats.espncricinfo.com/ci/engine/match/66106.html,351,3,41.5954415954416,W
+17,49,42,3,0,40.47,2,bowled,1,v South Africa,Durban,2001-10-26,https://stats.espncricinfo.com/ci/engine/match/66107.html,183,10,9.289617486338798,L
+36,71,43,6,0,83.72,2,bowled,1,v England,Eden Gardens,2002-01-19,https://stats.espncricinfo.com/ci/engine/match/64736.html,281,8,12.811387900355871,W
+45,101,60,6,0,75.00,2,run out,2,v England,Cuttack,2002-01-22,https://stats.espncricinfo.com/ci/engine/match/64738.html,234,10,19.230769230769234,L
+68,110,79,10,0,86.07,1,lbw,2,v England,Chennai,2002-01-25,https://stats.espncricinfo.com/ci/engine/match/64741.html,221,6,30.76923076923077,W
+87,120,67,13,1,129.85,1,not out,2,v England,Kanpur,2002-01-28,https://stats.espncricinfo.com/ci/engine/match/64742.html,219,2,39.726027397260275,W
+18,20,16,3,0,112.50,2,caught,2,v England,Delhi,2002-01-31,https://stats.espncricinfo.com/ci/engine/match/64743.html,269,8,6.691449814126393,L
+12,22,18,1,1,66.66,2,caught,2,v England,Wankhede,2002-02-03,https://stats.espncricinfo.com/ci/engine/match/64744.html,250,10,4.8,L
+34,64,45,2,0,75.55,4,not out,2,v West Indies,Bridgetown,2002-05-29,https://stats.espncricinfo.com/ci/engine/match/64768.html,187,3,18.181818181818183,W
+65,110,70,3,1,92.85,4,bowled,1,v West Indies,Port of Spain,2002-06-02,https://stats.espncricinfo.com/ci/engine/match/64770.html,260,10,25.0,W
+1,12,9,0,0,11.11,4,lbw,2,v England,Lord's,2002-06-29,https://stats.espncricinfo.com/ci/engine/match/66284.html,272,4,0.3676470588235294,W
+49,123,70,3,1,70.00,4,caught,2,v Sri Lanka,The Oval,2002-06-30,https://stats.espncricinfo.com/ci/engine/match/66285.html,203,6,24.137931034482758,W
+105,167,108,8,1,97.22,4,not out,1,v England,Chester-le-Street,2002-07-04,https://stats.espncricinfo.com/ci/engine/match/66287.html,285,4,36.84210526315789,L
+19,35,25,3,0,76.00,4,caught,2,v Sri Lanka,Birmingham,2002-07-06,https://stats.espncricinfo.com/ci/engine/match/66288.html,188,6,10.106382978723403,W
+36,60,29,5,0,124.13,4,caught,2,v England,The Oval,2002-07-09,https://stats.espncricinfo.com/ci/engine/match/66290.html,165,10,21.818181818181817,L
+113,141,102,12,1,110.78,4,caught,1,v Sri Lanka,Bristol,2002-07-11,https://stats.espncricinfo.com/ci/engine/match/66291.html,304,10,37.17105263157895,W
+14,31,19,1,0,73.68,4,bowled,2,v England,Lord's,2002-07-13,https://stats.espncricinfo.com/ci/engine/match/66292.html,326,8,4.294478527607362,W
+7,39,16,0,0,43.75,4,caught,1,v Zimbabwe,Colombo (RPS),2002-09-14,https://stats.espncricinfo.com/ci/engine/match/66182.html,288,6,2.430555555555556,W
+9,34,20,0,0,45.00,4,not out,2,v England,Colombo (RPS),2002-09-22,https://stats.espncricinfo.com/ci/engine/match/66190.html,271,2,3.3210332103321036,W
+16,39,29,1,0,55.17,4,run out,1,v South Africa,Colombo (RPS),2002-09-25,https://stats.espncricinfo.com/ci/engine/match/66192.html,261,9,6.130268199233716,W
+7,33,22,1,0,31.81,3,not out,2,v Sri Lanka,Colombo (RPS),2002-09-30,https://stats.espncricinfo.com/ci/engine/match/66195.html,38,1,18.421052631578945,L
+0,9,10,0,0,0.00,4,lbw,2,v New Zealand,Wellington,2003-01-08,https://stats.espncricinfo.com/ci/engine/match/64817.html,169,8,0.0,W
+1,21,13,0,0,7.69,4,caught,2,v New Zealand,Auckland,2003-01-11,https://stats.espncricinfo.com/ci/engine/match/64818.html,200,9,0.5,W
+1,7,6,0,0,16.66,3,caught,1,v New Zealand,Hamilton,2003-01-14,https://stats.espncricinfo.com/ci/engine/match/64819.html,122,10,0.819672131147541,L
+52,91,72,7,0,72.22,2,caught,1,v Netherlands,Paarl,2003-02-12,https://stats.espncricinfo.com/ci/engine/match/65241.html,204,10,25.49019607843137,W
+36,127,59,3,0,61.01,2,lbw,1,v Australia,Centurion,2003-02-15,https://stats.espncricinfo.com/ci/engine/match/65244.html,125,10,28.799999999999997,L
+81,122,91,10,0,89.01,2,bowled,1,v Zimbabwe,Harare,2003-02-19,https://stats.espncricinfo.com/ci/engine/match/65250.html,255,7,31.76470588235294,W
+152,193,151,18,0,100.66,2,bowled,1,v Namibia,Pietermaritzburg,2003-02-23,https://stats.espncricinfo.com/ci/engine/match/65257.html,311,2,48.87459807073955,W
+50,78,52,8,1,96.15,2,caught,1,v England,Durban,2003-02-26,https://stats.espncricinfo.com/ci/engine/match/65262.html,250,9,20.0,W
+98,145,75,12,1,130.66,1,caught,2,v Pakistan,Centurion,2003-03-01,https://stats.espncricinfo.com/ci/engine/match/65268.html,276,4,35.507246376811594,W
+5,21,12,1,0,41.66,2,caught,2,v Kenya,Cape Town,2003-03-07,https://stats.espncricinfo.com/ci/engine/match/65276.html,226,4,2.2123893805309733,W
+97,160,120,7,1,80.83,1,caught,1,v Sri Lanka,Johannesburg,2003-03-10,https://stats.espncricinfo.com/ci/engine/match/65278.html,292,6,33.21917808219178,W
+15,25,16,3,0,93.75,2,caught,2,v New Zealand,Centurion,2003-03-14,https://stats.espncricinfo.com/ci/engine/match/65281.html,150,3,10.0,W
+83,166,101,5,1,82.17,2,caught,1,v Kenya,Durban,2003-03-20,https://stats.espncricinfo.com/ci/engine/match/65285.html,270,4,30.74074074074074,W
+4,2,5,1,0,80.00,1,caught,2,v Australia,Johannesburg,2003-03-23,https://stats.espncricinfo.com/ci/engine/match/65286.html,234,10,1.7094017094017095,L
+48,119,66,5,0,72.72,2,not out,1,v New Zealand,Chennai,2003-10-23,https://stats.espncricinfo.com/ci/engine/match/66364.html,141,3,34.04255319148936,L
+100,158,119,9,1,84.03,2,caught,1,v Australia,Gwalior,2003-10-26,https://stats.espncricinfo.com/ci/engine/match/66365.html,283,5,35.3356890459364,W
+68,113,76,10,0,89.47,2,bowled,2,v Australia,Wankhede,2003-11-01,https://stats.espncricinfo.com/ci/engine/match/66367.html,209,10,32.535885167464116,L
+14,29,14,3,0,100.00,2,lbw,1,v New Zealand,Cuttack,2003-11-06,https://stats.espncricinfo.com/ci/engine/match/66369.html,246,9,5.691056910569105,L
+89,133,91,12,1,97.80,2,bowled,2,v Australia,Bengaluru,2003-11-12,https://stats.espncricinfo.com/ci/engine/match/66371.html,286,8,31.11888111888112,L
+102,124,91,12,1,112.08,2,caught,1,v New Zealand,Hyderabad (Deccan),2003-11-15,https://stats.espncricinfo.com/ci/engine/match/66372.html,353,5,28.89518413597734,W
+45,104,66,5,0,68.18,1,bowled,2,v Australia,Eden Gardens,2003-11-18,https://stats.espncricinfo.com/ci/engine/match/66373.html,198,10,22.727272727272727,L
+63,117,69,8,1,91.30,2,caught,2,v Australia,Melbourne,2004-01-09,https://stats.espncricinfo.com/ci/engine/match/65643.html,270,10,23.333333333333332,L
+44,107,59,6,0,74.57,2,bowled,2,v Zimbabwe,Hobart,2004-01-14,https://stats.espncricinfo.com/ci/engine/match/65645.html,211,3,20.85308056872038,W
+86,129,95,8,0,90.52,2,caught,1,v Australia,Brisbane,2004-01-18,https://stats.espncricinfo.com/ci/engine/match/65647.html,303,4,28.38283828382838,W
+5,17,6,1,0,83.33,2,caught,1,v Australia,Perth,2004-02-01,https://stats.espncricinfo.com/ci/engine/match/65653.html,203,10,2.4630541871921183,L
+3,16,8,0,0,37.50,2,caught,2,v Zimbabwe,Perth,2004-02-03,https://stats.espncricinfo.com/ci/engine/match/65654.html,136,6,2.2058823529411766,W
+8,28,22,1,0,36.36,2,bowled,1,v Australia,Melbourne,2004-02-06,https://stats.espncricinfo.com/ci/engine/match/65655.html,222,10,3.6036036036036037,L
+27,38,40,4,0,67.50,2,caught,2,v Australia,Sydney,2004-02-08,https://stats.espncricinfo.com/ci/engine/match/65656.html,151,10,17.880794701986755,L
+28,49,35,4,1,80.00,2,caught,1,v Pakistan,Karachi,2004-03-13,https://stats.espncricinfo.com/ci/engine/match/64880.html,349,7,8.022922636103152,W
+141,173,135,17,1,104.44,2,caught,2,v Pakistan,Rawalpindi,2004-03-16,https://stats.espncricinfo.com/ci/engine/match/64882.html,317,10,44.479495268138805,L
+0,7,5,0,0,0.00,2,caught,1,v Pakistan,Peshawar,2004-03-19,https://stats.espncricinfo.com/ci/engine/match/64883.html,244,9,0.0,L
+7,22,13,1,0,53.84,2,caught,2,v Pakistan,Lahore,2004-03-21,https://stats.espncricinfo.com/ci/engine/match/64884.html,294,5,2.380952380952381,W
+37,60,48,7,0,77.08,2,caught,1,v Pakistan,Lahore,2004-03-24,https://stats.espncricinfo.com/ci/engine/match/64885.html,293,7,12.627986348122866,W
+18,39,25,2,0,72.00,2,caught,1,v U.A.E.,Dambulla,2004-07-16,https://stats.espncricinfo.com/ci/engine/match/65707.html,260,6,6.923076923076923,W
+11,17,13,2,0,84.61,1,caught,2,v Sri Lanka,Dambulla,2004-07-18,https://stats.espncricinfo.com/ci/engine/match/65711.html,270,8,4.074074074074074,L
+82,157,126,10,1,65.07,2,not out,2,v Bangladesh,Colombo (SSC),2004-07-21,https://stats.espncricinfo.com/ci/engine/match/65712.html,178,2,46.06741573033708,W
+78,192,103,6,0,75.72,2,caught,2,v Pakistan,Colombo (RPS),2004-07-25,https://stats.espncricinfo.com/ci/engine/match/65715.html,241,8,32.365145228215766,L
+18,30,21,3,0,85.71,1,lbw,1,v Sri Lanka,Colombo (RPS),2004-07-27,https://stats.espncricinfo.com/ci/engine/match/65716.html,271,6,6.642066420664207,W
+74,170,100,7,1,74.00,2,bowled,2,v Sri Lanka,Colombo (RPS),2004-08-01,https://stats.espncricinfo.com/ci/engine/match/65718.html,203,9,36.45320197044335,L
+16,30,17,2,0,94.11,2,run out,1,v Pakistan,Eden Gardens,2004-11-13,https://stats.espncricinfo.com/ci/engine/match/66384.html,292,6,5.47945205479452,L
+19,46,32,3,0,59.37,2,caught,1,v Bangladesh,Chattogram,2004-12-23,https://stats.espncricinfo.com/ci/engine/match/64914.html,245,8,7.755102040816326,W
+47,60,42,9,0,111.90,2,caught,1,v Bangladesh,Dhaka,2004-12-27,https://stats.espncricinfo.com/ci/engine/match/64917.html,348,5,13.505747126436782,W
+4,8,4,1,0,100.00,2,caught,1,v Pakistan,Kochi,2005-04-02,https://stats.espncricinfo.com/ci/engine/match/64938.html,281,8,1.4234875444839856,W
+2,17,8,0,0,25.00,2,run out,1,v Pakistan,Visakhapatnam,2005-04-05,https://stats.espncricinfo.com/ci/engine/match/64939.html,356,9,0.5617977528089888,W
+6,15,11,1,0,54.54,2,caught,2,v Pakistan,Jamshedpur,2005-04-09,https://stats.espncricinfo.com/ci/engine/match/64940.html,213,10,2.8169014084507045,L
+123,192,130,12,2,94.61,2,bowled,1,v Pakistan,Ahmedabad,2005-04-12,https://stats.espncricinfo.com/ci/engine/match/64941.html,315,6,39.04761904761905,L
+1,13,10,0,0,10.00,2,caught,1,v Pakistan,Kanpur,2005-04-15,https://stats.espncricinfo.com/ci/engine/match/64942.html,249,6,0.4016064257028112,L
+9,38,15,0,0,60.00,2,bowled,2,v Pakistan,Delhi,2005-04-17,https://stats.espncricinfo.com/ci/engine/match/64943.html,144,10,6.25,L
+93,149,96,9,2,96.87,2,caught,1,v Sri Lanka,Nagpur,2005-10-25,https://stats.espncricinfo.com/ci/engine/match/223018.html,350,6,26.571428571428573,W
+67,87,69,11,0,97.10,2,not out,2,v Sri Lanka,Mohali,2005-10-28,https://stats.espncricinfo.com/ci/engine/match/223334.html,123,2,54.47154471544715,W
+2,2,3,0,0,66.66,2,caught,2,v Sri Lanka,Jaipur,2005-10-31,https://stats.espncricinfo.com/ci/engine/match/223634.html,303,4,0.6600660066006601,W
+11,28,19,1,1,57.89,2,bowled,2,v Sri Lanka,Pune,2005-11-03,https://stats.espncricinfo.com/ci/engine/match/223902.html,262,6,4.198473282442748,W
+19,46,30,3,0,63.33,2,caught,2,v Sri Lanka,Rajkot,2005-11-09,https://stats.espncricinfo.com/ci/engine/match/224556.html,197,3,9.644670050761421,W
+39,76,48,8,0,81.25,2,caught,2,v Sri Lanka,Vadodara,2005-11-12,https://stats.espncricinfo.com/ci/engine/match/225437.html,245,5,15.918367346938775,W
+2,20,9,0,0,22.22,2,caught,1,v South Africa,Hyderabad,2005-11-16,https://stats.espncricinfo.com/ci/engine/match/225959.html,249,9,0.8032128514056224,L
+2,31,22,0,0,9.09,2,caught,2,v South Africa,Bengaluru,2005-11-19,https://stats.espncricinfo.com/ci/engine/match/226315.html,171,4,1.1695906432748537,W
+2,18,15,0,0,13.33,3,caught,1,v South Africa,Eden Gardens,2005-11-25,https://stats.espncricinfo.com/ci/engine/match/226358.html,188,10,1.0638297872340425,L
+30,77,44,5,0,68.18,2,caught,2,v South Africa,Wankhede,2005-11-28,https://stats.espncricinfo.com/ci/engine/match/226359.html,224,5,13.392857142857142,W
+100,188,113,10,1,88.49,2,lbw,1,v Pakistan,Peshawar,2006-02-06,https://stats.espncricinfo.com/ci/engine/match/235831.html,328,10,30.48780487804878,L
+42,71,43,8,0,97.67,2,caught,2,v Pakistan,Rawalpindi,2006-02-11,https://stats.espncricinfo.com/ci/engine/match/236520.html,266,3,15.789473684210526,W
+95,157,104,16,1,91.34,2,caught,2,v Pakistan,Lahore,2006-02-13,https://stats.espncricinfo.com/ci/engine/match/236809.html,292,5,32.534246575342465,W
+0,7,3,0,0,0.00,2,caught,2,v Pakistan,Multan,2006-02-16,https://stats.espncricinfo.com/ci/engine/match/237222.html,162,5,0.0,W
+2,16,3,0,0,66.66,2,not out,1,v Sri Lanka,Colombo (SSC),2006-08-18,https://stats.espncricinfo.com/ci/engine/match/256665.html,11,10,18.181818181818183,L
+141,-,148,13,5,95.27,2,not out,1,v West Indies,Kuala Lumpur,2006-09-14,https://stats.espncricinfo.com/ci/engine/match/256607.html,309,5,45.63106796116505,L
+12,30,17,2,0,70.58,2,caught,2,v Australia,Kuala Lumpur,2006-09-16,https://stats.espncricinfo.com/ci/engine/match/256608.html,35,5,34.285714285714285,L
+65,154,102,7,0,63.72,2,run out,1,v West Indies,Kuala Lumpur,2006-09-20,https://stats.espncricinfo.com/ci/engine/match/256612.html,162,10,40.123456790123456,W
+4,11,10,1,0,40.00,2,caught,2,v Australia,Kuala Lumpur,2006-09-22,https://stats.espncricinfo.com/ci/engine/match/256614.html,195,10,2.051282051282051,L
+35,87,41,5,0,85.36,2,lbw,2,v England,Jaipur,2006-10-15,https://stats.espncricinfo.com/ci/engine/match/249745.html,126,6,27.77777777777778,W
+29,81,45,4,0,64.44,2,bowled,1,v West Indies,Ahmedabad,2006-10-26,https://stats.espncricinfo.com/ci/engine/match/249753.html,223,9,13.004484304932735,L
+10,46,26,2,0,38.46,2,caught,1,v Australia,Mohali,2006-10-29,https://stats.espncricinfo.com/ci/engine/match/249756.html,249,8,4.016064257028113,L
+35,79,51,5,0,68.62,2,bowled,2,v South Africa,Durban,2006-11-22,https://stats.espncricinfo.com/ci/engine/match/249211.html,91,10,38.46153846153847,L
+2,20,9,0,0,22.22,2,caught,2,v South Africa,Cape Town,2006-11-26,https://stats.espncricinfo.com/ci/engine/match/249212.html,168,10,1.1904761904761905,L
+1,4,3,0,0,33.33,3,caught,2,v South Africa,Gqeberha,2006-11-29,https://stats.espncricinfo.com/ci/engine/match/249213.html,163,10,0.6134969325153374,L
+55,134,97,8,0,56.70,2,caught,1,v South Africa,Centurion,2006-12-03,https://stats.espncricinfo.com/ci/engine/match/249214.html,200,9,27.500000000000004,L
+31,54,38,3,0,81.57,3,lbw,1,v West Indies,Nagpur,2007-01-21,https://stats.espncricinfo.com/ci/engine/match/267706.html,338,3,9.171597633136095,W
+0,6,6,0,0,0.00,4,caught,1,v West Indies,Cuttack,2007-01-24,https://stats.espncricinfo.com/ci/engine/match/267707.html,189,10,0.0,W
+60,112,66,2,0,90.90,4,caught,1,v West Indies,Chennai,2007-01-27,https://stats.espncricinfo.com/ci/engine/match/267708.html,268,10,22.388059701492537,L
+100,110,76,10,1,131.57,4,not out,1,v West Indies,Vadodara,2007-01-31,https://stats.espncricinfo.com/ci/engine/match/267709.html,341,3,29.32551319648094,W
+54,94,61,9,0,88.52,4,stumped,2,v Sri Lanka,Rajkot,2007-02-11,https://stats.espncricinfo.com/ci/engine/match/267712.html,252,9,21.428571428571427,L
+1,13,8,0,0,12.50,3,bowled,2,v Sri Lanka,Margao,2007-02-14,https://stats.espncricinfo.com/ci/engine/match/267715.html,233,5,0.4291845493562232,W
+7,40,26,1,0,26.92,4,caught,1,v Bangladesh,Port of Spain,2007-03-17,https://stats.espncricinfo.com/ci/engine/match/247464.html,191,10,3.664921465968586,L
+57,46,29,2,4,196.55,6,not out,1,v Bermuda,Port of Spain,2007-03-19,https://stats.espncricinfo.com/ci/engine/match/247468.html,413,5,13.801452784503631,W
+0,5,3,0,0,0.00,4,bowled,2,v Sri Lanka,Port of Spain,2007-03-23,https://stats.espncricinfo.com/ci/engine/match/247476.html,185,10,0.0,L
+4,4,3,1,0,133.33,2,bowled,2,v Ireland,Belfast,2007-06-23,https://stats.espncricinfo.com/ci/engine/match/293071.html,171,1,2.3391812865497075,W
+99,199,143,12,0,69.23,2,run out,1,v South Africa,Belfast,2007-06-26,https://stats.espncricinfo.com/ci/engine/match/293076.html,242,8,40.909090909090914,L
+93,140,106,13,2,87.73,2,bowled,2,v South Africa,Belfast,2007-06-29,https://stats.espncricinfo.com/ci/engine/match/293077.html,227,4,40.969162995594715,W
+8,10,8,2,0,100.00,2,caught,2,v South Africa,Belfast,2007-07-01,https://stats.espncricinfo.com/ci/engine/match/293078.html,152,4,5.263157894736842,W
+17,52,33,1,0,51.51,2,caught,2,v England,Southampton,2007-08-21,https://stats.espncricinfo.com/ci/engine/match/258471.html,184,10,9.239130434782608,L
+99,158,112,15,1,88.39,2,caught,1,v England,Bristol,2007-08-24,https://stats.espncricinfo.com/ci/engine/match/258472.html,329,7,30.091185410334347,W
+8,42,19,1,0,42.10,2,caught,2,v England,Birmingham,2007-08-27,https://stats.espncricinfo.com/ci/engine/match/258473.html,239,10,3.3472803347280333,L
+55,128,86,9,0,63.95,2,caught,1,v England,Manchester,2007-08-30,https://stats.espncricinfo.com/ci/engine/match/258474.html,212,10,25.943396226415093,L
+71,87,59,13,0,120.33,2,caught,1,v England,Leeds,2007-09-02,https://stats.espncricinfo.com/ci/engine/match/258475.html,324,6,21.91358024691358,W
+94,120,81,16,1,116.04,2,caught,2,v England,The Oval,2007-09-05,https://stats.espncricinfo.com/ci/engine/match/258476.html,317,8,29.652996845425868,W
+30,80,46,4,0,65.21,2,caught,1,v England,Lord's,2007-09-08,https://stats.espncricinfo.com/ci/engine/match/258477.html,187,10,16.0427807486631,L
+0,9,6,0,0,0.00,2,lbw,2,v Australia,Bengaluru,2007-09-29,https://stats.espncricinfo.com/ci/engine/match/297793.html,9,1,0.0,L
+16,43,25,1,1,64.00,2,caught,2,v Australia,Kochi,2007-10-02,https://stats.espncricinfo.com/ci/engine/match/297794.html,222,10,7.207207207207207,L
+43,119,71,6,0,60.56,2,bowled,2,v Australia,Hyderabad,2007-10-05,https://stats.espncricinfo.com/ci/engine/match/297795.html,243,10,17.695473251028808,L
+79,184,119,7,0,66.38,2,run out,1,v Australia,Chandigarh,2007-10-08,https://stats.espncricinfo.com/ci/engine/match/297796.html,291,4,27.147766323024054,W
+47,128,73,9,0,64.38,2,caught,1,v Australia,Vadodara,2007-10-11,https://stats.espncricinfo.com/ci/engine/match/297797.html,148,10,31.756756756756754,L
+72,105,72,9,1,100.00,2,stumped,2,v Australia,Nagpur,2007-10-14,https://stats.espncricinfo.com/ci/engine/match/297798.html,299,7,24.08026755852843,L
+21,52,36,4,0,58.33,2,bowled,2,v Australia,Wankhede,2007-10-17,https://stats.espncricinfo.com/ci/engine/match/297799.html,195,8,10.76923076923077,W
+4,14,7,1,0,57.14,2,lbw,2,v Pakistan,Guwahati,2007-11-05,https://stats.espncricinfo.com/ci/engine/match/297801.html,242,5,1.6528925619834711,W
+99,130,91,14,1,108.79,2,caught,1,v Pakistan,Mohali,2007-11-08,https://stats.espncricinfo.com/ci/engine/match/297802.html,321,9,30.8411214953271,L
+29,54,27,5,0,107.40,2,caught,1,v Pakistan,Kanpur,2007-11-11,https://stats.espncricinfo.com/ci/engine/match/297803.html,294,6,9.863945578231291,W
+97,149,102,16,0,95.09,2,bowled,2,v Pakistan,Gwalior,2007-11-15,https://stats.espncricinfo.com/ci/engine/match/297804.html,260,4,37.30769230769231,W
+30,54,27,6,0,111.11,2,caught,2,v Pakistan,Jaipur,2007-11-18,https://stats.espncricinfo.com/ci/engine/match/297805.html,275,10,10.909090909090908,L
+10,30,17,1,0,58.82,2,hit wicket,1,v Australia,Brisbane,2008-02-03,https://stats.espncricinfo.com/ci/engine/match/291359.html,194,10,5.154639175257731,L
+35,70,52,2,0,67.30,2,bowled,1,v Sri Lanka,Brisbane,2008-02-05,https://stats.espncricinfo.com/ci/engine/match/291360.html,267,4,13.108614232209737,L
+44,123,54,3,0,81.48,2,caught,2,v Australia,Melbourne,2008-02-10,https://stats.espncricinfo.com/ci/engine/match/291362.html,160,5,27.500000000000004,W
+32,41,30,4,0,106.66,2,caught,1,v Sri Lanka,Canberra,2008-02-12,https://stats.espncricinfo.com/ci/engine/match/291363.html,195,5,16.41025641025641,L
+5,23,15,1,0,33.33,2,lbw,2,v Australia,Adelaide,2008-02-17,https://stats.espncricinfo.com/ci/engine/match/291365.html,153,10,3.2679738562091507,L
+0,6,2,0,0,0.00,2,bowled,2,v Sri Lanka,Adelaide,2008-02-19,https://stats.espncricinfo.com/ci/engine/match/291366.html,239,8,0.0,W
+2,3,3,0,0,66.66,2,lbw,2,v Australia,Sydney,2008-02-24,https://stats.espncricinfo.com/ci/engine/match/291368.html,299,10,0.6688963210702341,L
+63,92,54,10,0,116.66,2,caught,2,v Sri Lanka,Hobart,2008-02-26,https://stats.espncricinfo.com/ci/engine/match/291369.html,180,3,35.0,W
+117,235,120,10,0,97.50,2,not out,2,v Australia,Sydney,2008-03-02,https://stats.espncricinfo.com/ci/engine/match/291371.html,242,4,48.34710743801653,W
+91,176,121,7,0,75.20,2,caught,1,v Australia,Brisbane,2008-03-04,https://stats.espncricinfo.com/ci/engine/match/291372.html,258,9,35.27131782945737,W
+11,40,21,2,0,52.38,2,bowled,1,v England,Bengaluru,2008-11-23,https://stats.espncricinfo.com/ci/engine/match/361046.html,166,4,6.626506024096386,W
+50,99,57,6,0,87.71,2,bowled,2,v England,Cuttack,2008-11-26,https://stats.espncricinfo.com/ci/engine/match/361047.html,273,4,18.315018315018314,W
+5,15,16,0,0,31.25,2,lbw,2,v Sri Lanka,Dambulla,2009-01-28,https://stats.espncricinfo.com/ci/engine/match/386530.html,247,4,2.0242914979757085,W
+6,11,9,0,0,66.66,2,lbw,1,v Sri Lanka,Colombo (RPS),2009-01-31,https://stats.espncricinfo.com/ci/engine/match/386531.html,256,9,2.34375,W
+7,9,12,0,1,58.33,2,lbw,1,v Sri Lanka,Colombo (RPS),2009-02-03,https://stats.espncricinfo.com/ci/engine/match/386532.html,363,5,1.9283746556473829,W
+20,43,23,2,0,86.95,2,caught,1,v New Zealand,Napier,2009-03-03,https://stats.espncricinfo.com/ci/engine/match/366623.html,273,4,7.326007326007327,W
+61,100,69,7,1,88.40,2,lbw,1,v New Zealand,Wellington,2009-03-06,https://stats.espncricinfo.com/ci/engine/match/366626.html,188,4,32.4468085106383,L
+163,206,133,16,5,122.55,2,retired notout,1,v New Zealand,Christchurch,2009-03-08,https://stats.espncricinfo.com/ci/engine/match/366627.html,392,4,41.58163265306122,W
+46,81,55,6,0,83.63,2,caught,2,v New Zealand,Colombo (RPS),2009-09-11,https://stats.espncricinfo.com/ci/engine/match/403382.html,156,4,29.48717948717949,W
+27,63,33,5,0,81.81,2,caught,2,v Sri Lanka,Colombo (RPS),2009-09-12,https://stats.espncricinfo.com/ci/engine/match/403381.html,168,10,16.071428571428573,L
+138,214,133,10,1,103.75,2,lbw,1,v Sri Lanka,Colombo (RPS),2009-09-14,https://stats.espncricinfo.com/ci/engine/match/403383.html,319,5,43.260188087774296,W
+8,19,14,1,0,57.14,2,caught,2,v Pakistan,Centurion,2009-09-26,https://stats.espncricinfo.com/ci/engine/match/415278.html,248,10,3.225806451612903,L
+14,40,29,2,0,48.27,2,caught,2,v Australia,Vadodara,2009-10-25,https://stats.espncricinfo.com/ci/engine/match/416236.html,288,8,4.861111111111112,L
+4,14,8,1,0,50.00,2,caught,1,v Australia,Nagpur,2009-10-28,https://stats.espncricinfo.com/ci/engine/match/416237.html,354,7,1.1299435028248588,W
+32,63,47,2,0,68.08,2,run out,2,v Australia,Delhi,2009-10-31,https://stats.espncricinfo.com/ci/engine/match/416238.html,230,4,13.91304347826087,W
+40,86,68,6,0,58.82,2,lbw,2,v Australia,Mohali,2009-11-02,https://stats.espncricinfo.com/ci/engine/match/416239.html,226,10,17.699115044247787,L
+175,210,141,19,4,124.11,2,caught,2,v Australia,Hyderabad,2009-11-05,https://stats.espncricinfo.com/ci/engine/match/416240.html,347,10,50.43227665706051,L
+10,23,17,2,0,58.82,2,caught,1,v Australia,Guwahati,2009-11-08,https://stats.espncricinfo.com/ci/engine/match/416241.html,170,10,5.88235294117647,L
+69,91,63,10,1,109.52,2,bowled,1,v Sri Lanka,Rajkot,2009-12-15,https://stats.espncricinfo.com/ci/engine/match/430886.html,414,7,16.666666666666664,W
+43,76,52,4,0,82.69,2,stumped,1,v Sri Lanka,Nagpur,2009-12-18,https://stats.espncricinfo.com/ci/engine/match/430887.html,301,7,14.285714285714285,L
+96,187,104,13,0,92.30,2,not out,2,v Sri Lanka,Cuttack,2009-12-21,https://stats.espncricinfo.com/ci/engine/match/430888.html,243,3,39.50617283950617,W
+8,-,8,2,0,100.00,2,caught,2,v Sri Lanka,Eden Gardens,2009-12-24,https://stats.espncricinfo.com/ci/engine/match/430889.html,317,3,2.5236593059936907,W
+4,-,5,1,0,80.00,2,run out,1,v South Africa,Jaipur,2010-02-21,https://stats.espncricinfo.com/ci/engine/match/441827.html,298,9,1.342281879194631,W
+200,226,147,25,3,136.05,2,not out,1,v South Africa,Gwalior,2010-02-24,https://stats.espncricinfo.com/ci/engine/match/441828.html,401,3,49.87531172069826,W
+7,16,11,0,0,63.63,2,caught,2,v South Africa,Durban,2011-01-12,https://stats.espncricinfo.com/ci/engine/match/463150.html,154,10,4.545454545454546,L
+24,78,44,2,0,54.54,2,bowled,1,v South Africa,Johannesburg,2011-01-15,https://stats.espncricinfo.com/ci/engine/match/463151.html,190,10,12.631578947368421,W
+28,46,29,4,0,96.55,2,run out,1,v Bangladesh,Mirpur,2011-02-19,https://stats.espncricinfo.com/ci/engine/match/433558.html,370,4,7.567567567567568,W
+120,170,115,10,5,104.34,2,caught,1,v England,Bengaluru,2011-02-27,https://stats.espncricinfo.com/ci/engine/match/433568.html,338,10,35.50295857988166,L
+38,91,56,4,0,67.85,2,lbw,2,v Ireland,Bengaluru,2011-03-06,https://stats.espncricinfo.com/ci/engine/match/433578.html,210,5,18.095238095238095,W
+27,45,22,6,0,122.72,2,caught,2,v Netherlands,Delhi,2011-03-09,https://stats.espncricinfo.com/ci/engine/match/433582.html,191,5,14.136125654450263,W
+111,184,101,8,3,109.90,2,caught,1,v South Africa,Nagpur,2011-03-12,https://stats.espncricinfo.com/ci/engine/match/433586.html,296,10,37.5,L
+2,4,4,0,0,50.00,2,caught,1,v West Indies,Chennai,2011-03-20,https://stats.espncricinfo.com/ci/engine/match/433599.html,268,10,0.7462686567164178,W
+53,93,68,7,0,77.94,2,caught,2,v Australia,Ahmedabad,2011-03-24,https://stats.espncricinfo.com/ci/engine/match/433601.html,261,5,20.306513409961685,W
+85,160,115,11,0,73.91,2,caught,1,v Pakistan,Mohali,2011-03-30,https://stats.espncricinfo.com/ci/engine/match/433605.html,260,9,32.69230769230769,W
+18,21,14,2,0,128.57,2,caught,2,v Sri Lanka,Wankhede,2011-04-02,https://stats.espncricinfo.com/ci/engine/match/433606.html,277,4,6.4981949458483745,W
+2,9,6,0,0,33.33,2,caught,2,v Australia,Melbourne,2012-02-05,https://stats.espncricinfo.com/ci/engine/match/518956.html,151,10,1.3245033112582782,L
+48,87,63,5,0,76.19,2,bowled,2,v Sri Lanka,Perth,2012-02-08,https://stats.espncricinfo.com/ci/engine/match/518957.html,234,6,20.51282051282051,W
+15,25,24,2,0,62.50,2,caught,2,v Sri Lanka,Adelaide,2012-02-14,https://stats.espncricinfo.com/ci/engine/match/518960.html,236,9,6.3559322033898304,L
+3,21,12,0,0,25.00,2,caught,2,v Australia,Brisbane,2012-02-19,https://stats.espncricinfo.com/ci/engine/match/518962.html,178,10,1.6853932584269662,L
+22,33,23,3,0,95.65,2,bowled,2,v Sri Lanka,Brisbane,2012-02-21,https://stats.espncricinfo.com/ci/engine/match/518963.html,238,10,9.243697478991598,L
+14,34,15,2,0,93.33,2,run out,2,v Australia,Sydney,2012-02-26,https://stats.espncricinfo.com/ci/engine/match/518965.html,165,10,8.484848484848486,L
+39,45,30,5,0,130.00,2,lbw,2,v Sri Lanka,Hobart,2012-02-28,https://stats.espncricinfo.com/ci/engine/match/518966.html,321,3,12.149532710280374,W
+6,25,19,1,0,31.57,2,caught,1,v Sri Lanka,Mirpur,2012-03-13,https://stats.espncricinfo.com/ci/engine/match/535795.html,304,3,1.9736842105263157,W
+114,205,147,12,1,77.55,2,caught,1,v Bangladesh,Mirpur,2012-03-16,https://stats.espncricinfo.com/ci/engine/match/535797.html,289,5,39.44636678200692,L
+52,93,48,5,1,108.33,2,caught,2,v Pakistan,Mirpur,2012-03-18,https://stats.espncricinfo.com/ci/engine/match/535798.html,330,4,15.757575757575756,W
